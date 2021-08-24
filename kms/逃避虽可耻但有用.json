@@ -1,0 +1,21 @@
+{
+    "RECORDS": [
+        {
+            "name": "逃避虽可耻但有用",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-09/153613806612.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180904/17421_38eda58e/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180904/17422_d720cf09/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180904/17423_b87f1727/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180904/17424_0d29b2fb/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180904/17425_c481f563/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180904/17426_e3549fdb/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180904/17427_073c044b/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180904/17428_2b3a7cfb/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180904/17429_3629fea5/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180904/17430_b2438ba2/index.m3u8",
+                "第11集": "https://sina.com-h-sina.com/20180904/17431_c8327ffc/index.m3u8"
+            }
+        }
+    ]
+}

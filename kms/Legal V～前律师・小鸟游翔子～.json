@@ -1,0 +1,19 @@
+{
+    "RECORDS": [
+        {
+            "name": "Legal V～前律师・小鸟游翔子～",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-10/15393228800.jpg",
+            "urls": {
+                "第01集": "https://pptv.com-h-pptv.com/20181011/7743_c618fe8d/index.m3u8",
+                "第02集": "https://pptv.com-h-pptv.com/20181019/8114_cd83705d/index.m3u8",
+                "第03集": "https://pptv.com-h-pptv.com/20181025/8359_d9975b90/index.m3u8",
+                "第04集": "https://pptv.com-h-pptv.com/20181108/8898_c606acb3/index.m3u8",
+                "第05集": "https://pptv.com-h-pptv.com/20181115/9205_226ce81e/index.m3u8",
+                "第06集": "https://pptv.com-h-pptv.com/20181122/9470_cf4c522f/index.m3u8",
+                "第07集": "https://pptv.com-h-pptv.com/20181129/10066_cc60fd16/index.m3u8",
+                "第08集": "https://pptv.com-h-pptv.com/20181206/10659_c3f36699/index.m3u8",
+                "第09集": "https://qq.com-l-qq.com/20181213/7626_db2afe90/index.m3u8"
+            }
+        }
+    ]
+}

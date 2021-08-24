@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "吐槽大会第四季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-12/1575130486.jpg",
+            "urls": {
+                "20191130": "https://youku.cdn3-okzy.com/20191130/4562_fc241268/index.m3u8",
+                "20191207": "https://youku.cdn3-okzy.com/20191207/4776_90065a84/index.m3u8",
+                "20191214": "https://youku.cdn3-okzy.com/20191214/5037_e365f4ac/index.m3u8",
+                "20191221": "https://youku.cdn3-okzy.com/20191221/5227_4b223b10/index.m3u8",
+                "20191228": "https://youku.cdn3-okzy.com/20191228/5435_71626aae/index.m3u8",
+                "20200104": "https://youku.cdn3-okzy.com/20200104/5643_ebc26078/index.m3u8",
+                "20200111": "https://youku.cdn3-okzy.com/20200111/5883_7cc4df2a/index.m3u8",
+                "20200118": "https://youku.cdn3-okzy.com/20200118/6072_3d49cd04/index.m3u8",
+                "20200125": "https://youku.cdn3-okzy.com/20200125/6230_b28603a4/index.m3u8",
+                "20200201": "https://youku.cdn3-okzy.com/20200201/6371_99373a0b/index.m3u8"
+            }
+        }
+    ]
+}

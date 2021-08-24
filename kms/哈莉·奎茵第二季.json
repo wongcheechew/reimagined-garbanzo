@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "哈莉·奎茵第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-04/1586000873.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200404/8315_64ce4d6a/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200411/8661_74c9dd49/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200418/9154_a9c91358/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20200425/9494_5ca873a5/index.m3u8",
+                "第05集": "https://iqiyi.cdn9-okzy.com/20200502/9748_14b3da89/index.m3u8",
+                "第06集": "https://iqiyi.cdn9-okzy.com/20200509/9996_a6a72bb8/index.m3u8",
+                "第07集": "https://iqiyi.cdn9-okzy.com/20200516/10228_2d78de61/index.m3u8",
+                "第08集": "https://iqiyi.cdn9-okzy.com/20200523/10479_f61584f9/index.m3u8",
+                "第09集": "https://iqiyi.cdn9-okzy.com/20200531/10815_2c4930b7/index.m3u8",
+                "第10集": "https://iqiyi.cdn9-okzy.com/20200606/11049_3c1c2d3a/index.m3u8",
+                "第11集": "https://iqiyi.cdn9-okzy.com/20200613/11281_aab212bc/index.m3u8",
+                "第12集": "https://iqiyi.cdn9-okzy.com/20200620/11552_ecc4c887/index.m3u8",
+                "第13集": "https://iqiyi.cdn9-okzy.com/20200627/11776_de7a9683/index.m3u8"
+            }
+        }
+    ]
+}

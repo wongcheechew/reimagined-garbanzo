@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "半泽直树",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/153519667012.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180824/13340_10258397/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180824/13341_246bc6bf/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180824/13342_8dd13652/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180824/13343_5313c5f3/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180824/13344_c3fe277d/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180824/13345_c4c8c269/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180824/13346_57dad8f9/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180824/13347_8edca78b/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180824/13348_25bbd511/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180824/13349_5140fd29/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "屌丝女士第四季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15344007514.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180815/10056_9c57dd68/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180815/10057_d11a3017/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180815/10058_f07ea344/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180815/10059_157b2745/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180815/10060_0cc7a7fd/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180815/10061_c41b1a0e/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180904/17432_108870bd/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180904/17433_2c22f191/index.m3u8"
+            }
+        }
+    ]
+}

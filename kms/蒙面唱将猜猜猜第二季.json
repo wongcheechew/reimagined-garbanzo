@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "蒙面唱将猜猜猜第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-04/201804041522827269.jpg",
+            "urls": {
+                "20170903期": "https://youku.cdn-2-okzy.com/20170905/iqefQfi2/index.m3u8",
+                "20170910期": "https://youku.cdn-2-okzy.com/20170911/NXBizu3r/index.m3u8",
+                "20170915期": "https://youku.cdn-2-okzy.com/20170918/WUNZf7pc/index.m3u8",
+                "20170917期": "https://youku.cdn-2-okzy.com/20170918/3OwW2VoF/index.m3u8",
+                "20170922期": "https://youku.cdn-2-okzy.com/20170924/h2T0KGDJ/index.m3u8",
+                "20170924期": "https://youku.cdn-2-okzy.com/20170926/gpNxyNg0/index.m3u8",
+                "2170929期": "https://youku.cdn-2-okzy.com/20170930/5toOsbrE/index.m3u8",
+                "20171001期": "https://youku.cdn-2-okzy.com/20171002/EKTZxNll/index.m3u8",
+                "20171006期": "https://youku.cdn-2-okzy.com/20171006/gASlcuOn/index.m3u8",
+                "20171008期": "https://youku.com-youku.com/20171010/Ff4H0YOZ/index.m3u8"
+            }
+        }
+    ]
+}

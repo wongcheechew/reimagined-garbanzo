@@ -1,0 +1,17 @@
+{
+    "RECORDS": [
+        {
+            "name": "后翼弃兵",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-10/1603874972.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn31-okzy.com/20201028/332_0402a6b4/index.m3u8",
+                "第02集": "https://youku.cdn31-okzy.com/20201028/335_4359c122/index.m3u8",
+                "第03集": "https://youku.cdn31-okzy.com/20201028/330_72140e0f/index.m3u8",
+                "第04集": "https://youku.cdn31-okzy.com/20201028/333_a5d6f8fb/index.m3u8",
+                "第05集": "https://youku.cdn31-okzy.com/20201028/331_d4006ce8/index.m3u8",
+                "第06集": "https://youku.cdn31-okzy.com/20201029/359_1fb7eeeb/index.m3u8",
+                "第07集": "https://youku.cdn31-okzy.com/20201029/358_6804143d/index.m3u8"
+            }
+        }
+    ]
+}

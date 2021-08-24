@@ -1,0 +1,34 @@
+{
+    "RECORDS": [
+        {
+            "name": "我凭本事单身",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-10/1602940152.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn4-okzy.com/20201017/10870_7bbb5264/index.m3u8",
+                "第02集": "https://youku.cdn4-okzy.com/20201017/10871_54d1cf40/index.m3u8",
+                "第03集": "https://youku.cdn4-okzy.com/20201017/10872_1d9354ea/index.m3u8",
+                "第04集": "https://youku.cdn4-okzy.com/20201017/10873_d3bafe7f/index.m3u8",
+                "第05集": "https://youku.cdn4-okzy.com/20201017/10874_eb31f9e3/index.m3u8",
+                "第06集": "https://youku.cdn4-okzy.com/20201017/10875_23548c65/index.m3u8",
+                "第07集": "https://youku.cdn4-okzy.com/20201020/10926_f042dbab/index.m3u8",
+                "第08集": "https://youku.cdn4-okzy.com/20201020/10927_12a6e849/index.m3u8",
+                "第09集": "https://youku.cdn4-okzy.com/20201021/10962_fd8c61bd/index.m3u8",
+                "第10集": "https://youku.cdn4-okzy.com/20201021/10963_b92d148c/index.m3u8",
+                "第11集": "https://youku.cdn4-okzy.com/20201022/10985_54efa5c4/index.m3u8",
+                "第12集": "https://youku.cdn4-okzy.com/20201022/10986_4177a1af/index.m3u8",
+                "第13集": "https://youku.cdn2-okzy.com/20201022/12033_891b67de/index.m3u8",
+                "第14集": "https://youku.cdn2-okzy.com/20201022/12034_aab12fd7/index.m3u8",
+                "第15集": "https://youku.cdn2-okzy.com/20201022/12035_b0932d93/index.m3u8",
+                "第16集": "https://youku.cdn2-okzy.com/20201022/12036_0783445a/index.m3u8",
+                "第17集": "https://youku.cdn2-okzy.com/20201022/12037_5bf562d7/index.m3u8",
+                "第18集": "https://youku.cdn2-okzy.com/20201022/12038_002d8053/index.m3u8",
+                "第19集": "https://youku.cdn2-okzy.com/20201029/12173_738677b7/index.m3u8",
+                "第20集": "https://youku.cdn2-okzy.com/20201029/12174_abe9e3a6/index.m3u8",
+                "第21集": "https://youku.cdn2-okzy.com/20201029/12175_3c983f63/index.m3u8",
+                "第22集": "https://youku.cdn2-okzy.com/20201029/12176_f77bfc81/index.m3u8",
+                "第23集": "https://youku.cdn2-okzy.com/20201029/12177_80cfbbb7/index.m3u8",
+                "第24集": "https://youku.cdn2-okzy.com/20201029/12178_dba5d812/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "武林怪兽",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-01/15489209990.jpg",
+            "urls": {
+                "HD国语高清": "https://youku.cdn-2-okzy.com/20190131/21345_a7c82cfa/index.m3u8",
+                "HD粤语高清": "https://youku.cdn-2-okzy.com/20190131/21346_84989821/index.m3u8"
+            }
+        }
+    ]
+}

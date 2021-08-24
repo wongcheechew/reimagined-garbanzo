@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "name": "浴血黑帮第三季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-09/15680262975.jpg",
+            "urls": {
+                "第01集": "https://56.com-56cdn.com/20190908/339_41e39b0b/index.m3u8",
+                "第02集": "https://56.com-56cdn.com/20190908/340_cc5998c5/index.m3u8",
+                "第03集": "https://56.com-56cdn.com/20190908/341_f6d8338f/index.m3u8",
+                "第04集": "https://56.com-56cdn.com/20190908/342_c9539116/index.m3u8",
+                "第05集": "https://56.com-56cdn.com/20190908/343_b26e21d0/index.m3u8",
+                "第06集": "https://56.com-56cdn.com/20190908/344_f51ce32f/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "RECORDS": [
+        {
+            "name": "爱的迫降",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-12/1576399437.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20191215/10508_77c7194b/index.m3u8",
+                "第02集": "https://youku.cdn3-okzy.com/20191215/5066_6e46e9af/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20191221/10728_af5ade51/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20191222/10753_28c2abdf/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20191228/10943_6d09b123/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20191229/10964_63e0c636/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200111/11389_2427b274/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200112/11415_14ac9c21/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200118/11625_589f7a5f/index.m3u8",
+                "第10集": "https://youku.cdn11-okzy.com/20200119/11662_52899cb0/index.m3u8",
+                "第11集": "https://youku.cdn11-okzy.com/20200201/12214_b1a48106/index.m3u8",
+                "第12集": "https://youku.cdn11-okzy.com/20200202/12263_d03ce9dc/index.m3u8",
+                "第13集": "https://youku.cdn11-okzy.com/20200208/12496_ac9832fc/index.m3u8",
+                "第14集": "https://youku.cdn11-okzy.com/20200209/12526_6f2a14d3/index.m3u8",
+                "第15集": "https://youku.cdn11-okzy.com/20200215/12786_c6e7f941/index.m3u8",
+                "第16集": "https://youku.cdn11-okzy.com/20200216/12819_ad107309/index.m3u8",
+                "第sp1集": "https://youku.cdn11-okzy.com/20200108/11256_291e424c/index.m3u8",
+                "第sp2集": "https://youku.cdn11-okzy.com/20200108/11255_67a125b7/index.m3u8",
+                "第sp3集": "https://youku.cdn11-okzy.com/20200128/12024_ea57a36c/index.m3u8"
+            }
+        }
+    ]
+}

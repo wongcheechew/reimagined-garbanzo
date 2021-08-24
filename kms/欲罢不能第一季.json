@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "欲罢不能第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-04/1587608815.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200422/15595_3a96657b/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200422/15594_b63158a4/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200422/15593_10ecaabd/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200422/15592_0ad5ead9/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200422/15591_10ddd6c8/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200422/15590_08e1c11b/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200422/15589_4a0e8484/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200422/15588_1243a718/index.m3u8"
+            }
+        }
+    ]
+}

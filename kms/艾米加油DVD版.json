@@ -1,0 +1,40 @@
+{
+    "RECORDS": [
+        {
+            "name": "艾米加油DVD版",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1598504986.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn28-okzy.com/20200825/17016_56c813ee/index.m3u8",
+                "第02集": "https://youku.cdn28-okzy.com/20200825/17017_aae9e03e/index.m3u8",
+                "第03集": "https://youku.cdn28-okzy.com/20200825/17018_1b0c376a/index.m3u8",
+                "第04集": "https://youku.cdn28-okzy.com/20200825/17019_4baa1ec8/index.m3u8",
+                "第05集": "https://youku.cdn28-okzy.com/20200825/17020_a4eb42cf/index.m3u8",
+                "第06集": "https://youku.cdn28-okzy.com/20200825/17021_f1982794/index.m3u8",
+                "第07集": "https://youku.cdn28-okzy.com/20200825/17022_d198ac68/index.m3u8",
+                "第08集": "https://youku.cdn28-okzy.com/20200825/17023_d893bae4/index.m3u8",
+                "第09集": "https://youku.cdn28-okzy.com/20200825/17024_45784f4e/index.m3u8",
+                "第10集": "https://youku.cdn28-okzy.com/20200825/17025_dd024a3f/index.m3u8",
+                "第11集": "https://youku.cdn28-okzy.com/20200825/17026_5ff3c97b/index.m3u8",
+                "第12集": "https://youku.cdn28-okzy.com/20200825/17027_8dca42dd/index.m3u8",
+                "第13集": "https://youku.cdn28-okzy.com/20200825/17028_fb336e15/index.m3u8",
+                "第14集": "https://youku.cdn28-okzy.com/20200825/17029_8f07682d/index.m3u8",
+                "第15集": "https://youku.cdn28-okzy.com/20200825/17030_51575bf9/index.m3u8",
+                "第16集": "https://youku.cdn28-okzy.com/20200825/17031_dff962e7/index.m3u8",
+                "第17集": "https://youku.cdn28-okzy.com/20200825/17032_5b413fc0/index.m3u8",
+                "第18集": "https://youku.cdn28-okzy.com/20200825/17033_d833808c/index.m3u8",
+                "第19集": "https://youku.cdn28-okzy.com/20200825/17034_167d9b9c/index.m3u8",
+                "第20集": "https://youku.cdn28-okzy.com/20200825/17035_5ab4f49c/index.m3u8",
+                "第21集": "https://youku.cdn28-okzy.com/20200825/17036_117a0836/index.m3u8",
+                "第22集": "https://youku.cdn28-okzy.com/20200825/17037_5a334321/index.m3u8",
+                "第23集": "https://youku.cdn28-okzy.com/20200825/17038_542da952/index.m3u8",
+                "第24集": "https://youku.cdn28-okzy.com/20200825/17039_eb05ebeb/index.m3u8",
+                "第25集": "https://youku.cdn28-okzy.com/20200825/17040_336e9aff/index.m3u8",
+                "第26集": "https://youku.cdn28-okzy.com/20200825/17041_f612ec37/index.m3u8",
+                "第27集": "https://youku.cdn28-okzy.com/20200825/17042_6bb65285/index.m3u8",
+                "第28集": "https://youku.cdn28-okzy.com/20200825/17043_dee6e2ce/index.m3u8",
+                "第29集": "https://youku.cdn28-okzy.com/20200825/17044_ce204605/index.m3u8",
+                "第30集": "https://youku.cdn28-okzy.com/20200825/17045_3b1fa68a/index.m3u8"
+            }
+        }
+    ]
+}

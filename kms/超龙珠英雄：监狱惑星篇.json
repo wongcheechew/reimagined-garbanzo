@@ -1,0 +1,30 @@
+{
+    "RECORDS": [
+        {
+            "name": "超龙珠英雄：监狱惑星篇",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-07/153189183812.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn-8-okzy.com/20180717/22225_950cdf32/index.m3u8",
+                "第02集": "https://youku.cdn-8-okzy.com/20180717/22226_924a24c0/index.m3u8",
+                "第03集": "https://tudou.com-v-tudou.com/20180906/15999_33fe7c45/index.m3u8",
+                "第04集": "https://tudou.com-v-tudou.com/20180928/17028_e0d7e34b/index.m3u8",
+                "第05集": "https://tudou.com-v-tudou.com/20181029/18490_cdb5df24/index.m3u8",
+                "第06集": "https://pptv.com-h-pptv.com/20181222/11702_54c74698/index.m3u8",
+                "第07集": "https://pptv.com-h-pptv.com/20190113/12715_12408e10/index.m3u8",
+                "第08集": "https://pptv.com-h-pptv.com/20190304/15593_f89e37b5/index.m3u8",
+                "第09集": "https://pptv.com-h-pptv.com/20190309/15852_8165a44a/index.m3u8",
+                "第10集": "https://tudou.com-l-tudou.com/20190421/17753_f2a562a9/index.m3u8",
+                "第11集": "https://tudou.com-l-tudou.com/20190515/18620_2708ef08/index.m3u8",
+                "第12集": "https://tudou.com-l-tudou.com/20190626/20043_bd084e36/index.m3u8",
+                "第13集": "https://tudou.com-l-tudou.com/20190715/20893_6e677edb/index.m3u8",
+                "第14集": "https://qq.com-ok-qq.com/20190910/23143_d4e5ef8d/index.m3u8",
+                "第15集": "https://qq.com-ok-qq.com/20190910/23142_398bae7a/index.m3u8",
+                "第16集": "https://qq.com-ok-qq.com/20191014/24574_82477d62/index.m3u8",
+                "第17集": "https://qq.com-ok-qq.com/20191101/25351_1bc0ff5b/index.m3u8",
+                "第18集": "https://iqiyi.cdn9-okzy.com/20191225/4019_af5a096e/index.m3u8",
+                "第19集": "https://iqiyi.cdn9-okzy.com/20200115/4935_21be8a12/index.m3u8",
+                "第20集": "https://iqiyi.cdn9-okzy.com/20200227/6754_afdc38f9/index.m3u8"
+            }
+        }
+    ]
+}

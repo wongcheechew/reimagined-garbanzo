@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "赌神",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-12/15448704842.jpg",
+            "urls": {
+                "粤语": "https://youku.com-l-youku.com/20181214/3642_5ca0fb34/index.m3u8",
+                "国语": "https://youku.com-l-youku.com/20181214/3641_fe37d220/index.m3u8"
+            }
+        }
+    ]
+}

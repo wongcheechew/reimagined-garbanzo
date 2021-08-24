@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "说电影《向日葵》",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-01/202001081578446961.jpeg",
+            "url": "https://good.jieshuo-okzy.com/20200107/1963_3b2aee0b/index.m3u8",
+            "urls": {
+                "全一回": "https://good.jieshuo-okzy.com/20200107/1963_3b2aee0b/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "RECORDS": [
+        {
+            "name": "爆笑先森",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-03/1583305245.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn6-okzy.com/20200303/15076_77d2cfce/index.m3u8",
+                "第02集": "https://youku.cdn6-okzy.com/20200303/15077_0de6b723/index.m3u8",
+                "第03集": "https://youku.cdn6-okzy.com/20200303/15079_d0478303/index.m3u8",
+                "第04集": "https://youku.cdn6-okzy.com/20200303/15080_01f67f4e/index.m3u8",
+                "第05集": "https://youku.cdn6-okzy.com/20200303/15081_80875812/index.m3u8",
+                "第06集": "https://youku.cdn6-okzy.com/20200303/15082_98f940fa/index.m3u8",
+                "第07集": "https://youku.cdn6-okzy.com/20200303/15083_6d0fe194/index.m3u8",
+                "第08集": "https://youku.cdn6-okzy.com/20200303/15085_acec497e/index.m3u8",
+                "第09集": "https://youku.cdn6-okzy.com/20200303/15086_ec55f91f/index.m3u8",
+                "第10集": "https://youku.cdn6-okzy.com/20200303/15087_b88437e7/index.m3u8",
+                "第11集": "https://youku.cdn6-okzy.com/20200303/15088_a4cd4e21/index.m3u8"
+            }
+        }
+    ]
+}

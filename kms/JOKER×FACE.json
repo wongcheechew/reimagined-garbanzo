@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "JOKER×FACE",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-01/15476491930.jpg",
+            "urls": {
+                "第01集": "https://qq.com-l-qq.com/20190116/8107_3e5cf91d/index.m3u8",
+                "第02集": "https://qq.com-l-qq.com/20190128/8328_0579d7d0/index.m3u8",
+                "第03集": "https://qq.com-l-qq.com/20190204/8438_cfc8eb10/index.m3u8",
+                "第04集": "https://qq.com-l-qq.com/20190209/8507_d6559d7a/index.m3u8",
+                "第05集": "https://qq.com-l-qq.com/20190216/8597_9f861a01/index.m3u8",
+                "第06集": "https://pptv.com-h-pptv.com/20190218/14891_c914e246/index.m3u8",
+                "第07集": "https://qq.com-l-qq.com/20190226/8774_fd8844db/index.m3u8",
+                "第08集": "https://qq.com-l-qq.com/20190306/8989_b4adb01c/index.m3u8",
+                "第09集": "https://iqiyi.com-t-iqiyi.com/20190318/203_0ff9ba1c/index.m3u8",
+                "第10集": "https://iqiyi.com-t-iqiyi.com/20190318/200_c37a7e38/index.m3u8"
+            }
+        }
+    ]
+}

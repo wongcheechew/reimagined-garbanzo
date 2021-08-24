@@ -1,0 +1,26 @@
+{
+    "RECORDS": [
+        {
+            "name": "中国好声音第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-12/154593139717.jpg",
+            "urls": {
+                "第01集": "https://youku.com-l-youku.com/20181226/7100_51497940/index.m3u8",
+                "第02集": "https://youku.com-l-youku.com/20181227/7823_b869ff53/index.m3u8",
+                "第03集": "https://youku.com-l-youku.com/20181226/7102_3c260364/index.m3u8",
+                "第04集": "https://youku.com-l-youku.com/20181226/7103_b3b36ecd/index.m3u8",
+                "第05集": "https://youku.com-l-youku.com/20181226/7104_38b8245e/index.m3u8",
+                "第06集": "https://youku.com-l-youku.com/20181226/7105_271c49e6/index.m3u8",
+                "第07集": "https://youku.com-l-youku.com/20181226/7106_220e43cd/index.m3u8",
+                "第08集": "https://youku.com-l-youku.com/20181226/7107_65e22cdd/index.m3u8",
+                "第09集": "https://youku.com-l-youku.com/20181226/7108_6c900530/index.m3u8",
+                "第10集": "https://youku.com-l-youku.com/20181226/7109_43959239/index.m3u8",
+                "第11集": "https://youku.com-l-youku.com/20181226/7110_fa036b74/index.m3u8",
+                "第12集": "https://youku.com-l-youku.com/20181226/7111_8cca856d/index.m3u8",
+                "第13集": "https://youku.com-l-youku.com/20181226/7112_0e83ffec/index.m3u8",
+                "第14集": "https://youku.com-l-youku.com/20181226/7113_49cb808f/index.m3u8",
+                "第15集": "https://youku.com-l-youku.com/20181226/7114_82f9d3a7/index.m3u8",
+                "第16集": "https://youku.com-l-youku.com/20181226/7115_e9ba9d74/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "RECORDS": [
+        {
+            "name": "剑风传奇剧场版1-3合集",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15346734164.jpg",
+            "urls": {
+                "霸王之卵": "https://sina.com-h-sina.com/20180818/11283_8713f293/index.m3u8",
+                "多尔多雷攻略": "https://sina.com-h-sina.com/20180818/11284_5209b424/index.m3u8",
+                "降临": "https://sina.com-h-sina.com/20180818/11285_3865771b/index.m3u8"
+            }
+        }
+    ]
+}

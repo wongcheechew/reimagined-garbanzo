@@ -1,0 +1,13 @@
+{
+    "RECORDS": [
+        {
+            "name": "神探夏洛克第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-06/201806051528159353.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180604/9275_0e3ae364/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180604/9276_01845543/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180604/9277_412262e7/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "海贼王剧场版1-13合集",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15340696740.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180812/7981_dd91926d/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180812/7982_a663dde7/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180812/7983_a1e46c1f/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180812/7984_1a3306bf/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180812/7985_55df899f/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180812/7986_23b77953/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180812/7987_f6cd1515/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180812/7988_b90c5633/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180812/7989_b3eb8b2c/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180812/7990_7b641172/index.m3u8",
+                "第11集": "https://sina.com-h-sina.com/20180812/7991_6966753d/index.m3u8",
+                "第12集": "https://sina.com-h-sina.com/20180812/7992_866799a7/index.m3u8",
+                "第13集": "https://sina.com-h-sina.com/20180812/7993_88cbbc9e/index.m3u8"
+            }
+        }
+    ]
+}

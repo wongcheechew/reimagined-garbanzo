@@ -1,0 +1,40 @@
+{
+    "RECORDS": [
+        {
+            "name": "战毒粤语",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1594297193.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn4-okzy.com/20200709/8666_41e981e8/index.m3u8",
+                "第02集": "https://youku.cdn4-okzy.com/20200709/8667_9c515722/index.m3u8",
+                "第03集": "https://youku.cdn4-okzy.com/20200709/8668_4f6c3faf/index.m3u8",
+                "第04集": "https://youku.cdn4-okzy.com/20200709/8669_1d1eba6e/index.m3u8",
+                "第05集": "https://youku.cdn4-okzy.com/20200709/8670_5366ad20/index.m3u8",
+                "第06集": "https://youku.cdn4-okzy.com/20200709/8673_993255f5/index.m3u8",
+                "第07集": "https://youku.cdn4-okzy.com/20200709/8674_bb7e35ea/index.m3u8",
+                "第08集": "https://youku.cdn4-okzy.com/20200709/8675_e8c9a269/index.m3u8",
+                "第09集": "https://youku.cdn4-okzy.com/20200710/8696_1b6945b5/index.m3u8",
+                "第10集": "https://youku.cdn4-okzy.com/20200710/8695_96ce1f09/index.m3u8",
+                "第11集": "https://youku.cdn4-okzy.com/20200711/8718_2bea0b22/index.m3u8",
+                "第12集": "https://youku.cdn4-okzy.com/20200711/8719_7e6d48e0/index.m3u8",
+                "第13集": "https://youku.cdn4-okzy.com/20200716/8929_87e385f3/index.m3u8",
+                "第14集": "https://youku.cdn4-okzy.com/20200716/8930_786fc1db/index.m3u8",
+                "第15集": "https://youku.cdn4-okzy.com/20200717/8954_c02b6541/index.m3u8",
+                "第16集": "https://youku.cdn4-okzy.com/20200717/8955_111afc0a/index.m3u8",
+                "第17集": "https://youku.cdn4-okzy.com/20200718/8977_5418da1a/index.m3u8",
+                "第18集": "https://youku.cdn4-okzy.com/20200718/8978_165d29e5/index.m3u8",
+                "第19集": "https://youku.cdn4-okzy.com/20200723/9127_9c3d1222/index.m3u8",
+                "第20集": "https://youku.cdn4-okzy.com/20200723/9128_d400013f/index.m3u8",
+                "第21集": "https://youku.cdn4-okzy.com/20200724/9145_e36a0e3f/index.m3u8",
+                "第22集": "https://youku.cdn4-okzy.com/20200724/9146_5d0933f0/index.m3u8",
+                "第23集": "https://youku.cdn4-okzy.com/20200725/9162_62f6f2da/index.m3u8",
+                "第24集": "https://youku.cdn4-okzy.com/20200725/9163_c9a93fc0/index.m3u8",
+                "第25集": "https://youku.cdn4-okzy.com/20200730/9285_4bf8045e/index.m3u8",
+                "第26集": "https://youku.cdn4-okzy.com/20200730/9286_0fc7b49d/index.m3u8",
+                "第27集": "https://youku.cdn4-okzy.com/20200731/9317_cf475f22/index.m3u8",
+                "第28集": "https://youku.cdn4-okzy.com/20200731/9318_bff5a497/index.m3u8",
+                "第29集": "https://youku.cdn4-okzy.com/20200801/9337_607e9b3d/index.m3u8",
+                "第30集": "https://youku.cdn4-okzy.com/20200801/9338_245d08cc/index.m3u8"
+            }
+        }
+    ]
+}

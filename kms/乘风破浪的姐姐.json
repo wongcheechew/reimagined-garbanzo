@@ -1,0 +1,25 @@
+{
+    "RECORDS": [
+        {
+            "name": "乘风破浪的姐姐",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-06/1591971733.jpg",
+            "urls": {
+                "20200612上": "https://youku.cdn3-okzy.com/20200612/9794_a8827c57/index.m3u8",
+                "20200612下": "https://youku.cdn3-okzy.com/20200612/9795_f0b54684/index.m3u8",
+                "20200619": "https://youku.cdn3-okzy.com/20200619/10032_d4e30a6e/index.m3u8",
+                "20200622": "https://youku.cdn3-okzy.com/20200622/10111_7575da2d/index.m3u8",
+                "20200626": "https://youku.cdn3-okzy.com/20200626/10262_035f913d/index.m3u8",
+                "20200627": "https://youku.cdn3-okzy.com/20200627/10280_c90ab1da/index.m3u8",
+                "20200629": "https://youku.cdn3-okzy.com/20200629/10328_1038c879/index.m3u8",
+                "20200703": "https://youku.cdn3-okzy.com/20200703/10471_50fe9c99/index.m3u8",
+                "20200706": "https://youku.cdn3-okzy.com/20200706/10547_f6918883/index.m3u8",
+                "20200710": "https://youku.cdn3-okzy.com/20200710/10731_92292516/index.m3u8",
+                "20200713": "https://youku.cdn3-okzy.com/20200713/10900_ddcd84d3/index.m3u8",
+                "20200717": "https://youku.cdn3-okzy.com/20200717/11016_9415f6a6/index.m3u8",
+                "20200720": "https://youku.cdn3-okzy.com/20200720/11113_8d80930f/index.m3u8",
+                "20200724": "https://youku.cdn3-okzy.com/20200724/11330_ba8a2290/index.m3u8",
+                "20200727": "https://youku.cdn3-okzy.com/20200727/11414_8b52ce51/index.m3u8"
+            }
+        }
+    ]
+}

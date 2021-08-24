@@ -1,0 +1,24 @@
+{
+    "RECORDS": [
+        {
+            "name": "杨乃武与小白菜",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-05/1590135062.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn5-okzy.com/20200521/24490_ffb88fb5/index.m3u8",
+                "第02集": "https://youku.cdn5-okzy.com/20200521/24491_4b7e94c5/index.m3u8",
+                "第03集": "https://youku.cdn5-okzy.com/20200521/24492_40170af5/index.m3u8",
+                "第04集": "https://youku.cdn5-okzy.com/20200521/24493_499d8226/index.m3u8",
+                "第05集": "https://youku.cdn5-okzy.com/20200521/24494_ca7b1054/index.m3u8",
+                "第06集": "https://youku.cdn5-okzy.com/20200521/24495_0687695e/index.m3u8",
+                "第07集": "https://youku.cdn5-okzy.com/20200521/24496_a3f2ac9c/index.m3u8",
+                "第08集": "https://youku.cdn5-okzy.com/20200521/24497_0edce386/index.m3u8",
+                "第09集": "https://youku.cdn5-okzy.com/20200521/24498_a4137288/index.m3u8",
+                "第10集": "https://youku.cdn5-okzy.com/20200521/24499_cdfef420/index.m3u8",
+                "第11集": "https://youku.cdn5-okzy.com/20200521/24500_06029c79/index.m3u8",
+                "第12集": "https://youku.cdn5-okzy.com/20200521/24501_800a3a84/index.m3u8",
+                "第13集": "https://youku.cdn5-okzy.com/20200521/24502_34a98bdc/index.m3u8",
+                "第14集": "https://youku.cdn5-okzy.com/20200521/24503_2e24de48/index.m3u8"
+            }
+        }
+    ]
+}

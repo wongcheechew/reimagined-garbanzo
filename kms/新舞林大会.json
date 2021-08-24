@@ -1,0 +1,32 @@
+{
+    "RECORDS": [
+        {
+            "name": "新舞林大会",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-07/15323150363.jpg",
+            "urls": {
+                "第01集": "https://youku.com-qq.net/20190813/17318_40508724/index.m3u8",
+                "第02集": "https://youku.com-qq.net/20190813/17319_86d58b94/index.m3u8",
+                "第03集": "https://youku.com-qq.net/20190813/17320_c3dc05f6/index.m3u8",
+                "第04集": "https://youku.com-qq.net/20190813/17321_2f2c3c3e/index.m3u8",
+                "第05集": "https://youku.com-qq.net/20190813/17322_edb95bde/index.m3u8",
+                "第06集": "https://youku.com-qq.net/20190813/17323_224d15eb/index.m3u8",
+                "第07集": "https://youku.com-qq.net/20190813/17324_57b5c150/index.m3u8",
+                "第08集": "https://youku.com-qq.net/20190813/17325_4dcd63e6/index.m3u8",
+                "第09集": "https://youku.com-qq.net/20190813/17326_a68bb6cb/index.m3u8",
+                "第10集": "https://youku.com-qq.net/20190813/17327_ef73c333/index.m3u8",
+                "第11集": "https://youku.com-qq.net/20190813/17328_a579a45c/index.m3u8",
+                "第12集": "https://youku.com-qq.net/20190813/17329_a129e1d5/index.m3u8",
+                "第13集": "https://youku.com-qq.net/20190813/17330_ea5cbd06/index.m3u8",
+                "第14集": "https://youku.com-qq.net/20190813/17331_aaf65a0a/index.m3u8",
+                "第15集": "https://youku.com-qq.net/20190813/17332_3404bb37/index.m3u8",
+                "第16集": "https://youku.com-qq.net/20190813/17333_c1178d26/index.m3u8",
+                "第17集": "https://youku.com-qq.net/20190813/17334_52deb6e7/index.m3u8",
+                "第18集": "https://youku.com-qq.net/20190813/17335_655126c5/index.m3u8",
+                "第19集": "https://youku.com-qq.net/20190813/17336_2abf54be/index.m3u8",
+                "第20集": "https://youku.com-qq.net/20190813/17337_b2e864b3/index.m3u8",
+                "第21集": "https://youku.com-qq.net/20190813/17338_3a931e78/index.m3u8",
+                "第22集": "https://youku.com-qq.net/20190813/17339_2802c3c6/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "隐秘的角落",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-06/1592308501.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn4-okzy.com/20200616/8086_4bc00a91/index.m3u8",
+                "第02集": "https://youku.cdn4-okzy.com/20200616/8087_e5c651db/index.m3u8",
+                "第03集": "https://youku.cdn4-okzy.com/20200617/8112_e614cb30/index.m3u8",
+                "第04集": "https://youku.cdn4-okzy.com/20200617/8113_120de624/index.m3u8",
+                "第05集": "https://youku.cdn4-okzy.com/20200618/8127_d148c732/index.m3u8",
+                "第06集": "https://youku.cdn4-okzy.com/20200618/8128_d1f7964d/index.m3u8",
+                "第07集": "https://youku.cdn2-okzy.com/20200618/10135_d8568464/index.m3u8",
+                "第08集": "https://youku.cdn2-okzy.com/20200618/10136_366af818/index.m3u8",
+                "第09集": "https://youku.cdn2-okzy.com/20200618/10137_121a94c7/index.m3u8",
+                "第10集": "https://youku.cdn2-okzy.com/20200618/10138_ba6cc9a0/index.m3u8",
+                "第11集": "https://youku.cdn2-okzy.com/20200618/10139_5b727feb/index.m3u8",
+                "第12集": "https://youku.cdn2-okzy.com/20200618/10140_06659ee1/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "屌丝女士第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15344007500.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180815/10040_7628f90a/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180815/10041_88607ddc/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180815/10042_5cc77689/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180815/10043_24774036/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180815/10044_c0e9ba4b/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180815/10045_2e9e749f/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180815/10046_bdbc4f8e/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180815/10047_4d01226f/index.m3u8"
+            }
+        }
+    ]
+}

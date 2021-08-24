@@ -1,0 +1,34 @@
+{
+    "RECORDS": [
+        {
+            "name": "生活大爆炸第十一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-27/15065088429.jpg",
+            "urls": {
+                "第01集": "https://sohu.com-v-sohu.com/20170927/kPNASafU/index.m3u8",
+                "第02集": "https://sohu.com-v-sohu.com/20171004/EDiILvDb/index.m3u8",
+                "第03集": "https://sohu.com-v-sohu.com/20171011/ORhwGipX/index.m3u8",
+                "第04集": "https://sohu.com-v-sohu.com/20171018/F4D4gTuP/index.m3u8",
+                "第05集": "https://sohu.com-v-sohu.com/20171025/mznFpwzP/index.m3u8",
+                "第06集": "https://sohu.com-v-sohu.com/20171104/aL82Vfg8/index.m3u8",
+                "第07集": "https://sohu.com-v-sohu.com/20171111/LQUme32V/index.m3u8",
+                "第08集": "https://bobo.okokbo.com/20171118/gO4rl04M/index.m3u8",
+                "第09集": "https://bobo.okokbo.com/20171201/stbKqarV/index.m3u8",
+                "第10集": "https://bobo.okokbo.com/20171209/fh4qxeGg/index.m3u8",
+                "第11集": "https://bobo.okokbo.com/20180115/V2oTGwSf/index.m3u8",
+                "第12集": "https://bobo.okokbo.com/20180115/vvi8j3Pr/index.m3u8",
+                "第13集": "https://tudou.com-l-tudou.com/20180415/8566_658c14b7/index.m3u8",
+                "第14集": "https://bobo.okokbo.com/20180119/kjJpGQmN/index.m3u8",
+                "第15集": "https://bobo.okokbo.com/20180203/NjoX19Iy/index.m3u8",
+                "第16集": "https://bobo.okokbo.com/20180303/oacxfz44/index.m3u8",
+                "第17集": "https://bobo.okokbo.com/20180310/2qz6JaGe/index.m3u8",
+                "第18集": "https://bobo.okokbo.com/20180401/3jvpfSW6/index.m3u8",
+                "第19集": "https://youku.cdn-56.com/20180406/834_f67d432b/index.m3u8",
+                "第20集": "https://youku.cdn-56.com/20180413/1177_57a6703f/index.m3u8",
+                "第21集": "https://youku.cdn-56.com/20180420/1612_c771f620/index.m3u8",
+                "第22集": "https://youku.cdn-56.com/20180427/1954_5a3e88a1/index.m3u8",
+                "第23集": "https://youku.cdn-56.com/20180504/2303_a50d7fcc/index.m3u8",
+                "第24集": "https://youku.cdn11-okzy.com/20200327/14573_bbc443e3/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "孤独的美食家第七季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-04/152317295515.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn-56.com/20180407/949_1ccc116f/index.m3u8",
+                "第02集": "https://youku.cdn-56.com/20180414/1224_74d1da69/index.m3u8",
+                "第03集": "https://youku.cdn-56.com/20180421/1684_1f425f4c/index.m3u8",
+                "第04集": "https://youku.cdn-56.com/20180428/2006_8b200fe7/index.m3u8",
+                "第05集": "https://youku.cdn-56.com/20180505/2347_e334b7e3/index.m3u8",
+                "第06集": "https://youku.cdn-56.com/20180512/2628_6eb3bb7e/index.m3u8",
+                "第07集": "https://youku.cdn-56.com/20180519/2863_245efa24/index.m3u8",
+                "第08集": "https://youku.cdn-56.com/20180623/3922_c5c73329/index.m3u8",
+                "第09集": "https://youku.cdn-56.com/20180623/3921_fc568380/index.m3u8",
+                "第10集": "https://youku.cdn-56.com/20180623/3920_54c76b22/index.m3u8",
+                "第11集": "https://youku.cdn-56.com/20180623/3919_7797d4a4/index.m3u8",
+                "第12集": "https://youku.cdn-56.com/20180630/4150_a2fd0689/index.m3u8"
+            }
+        }
+    ]
+}

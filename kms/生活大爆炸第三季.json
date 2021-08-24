@@ -1,0 +1,33 @@
+{
+    "RECORDS": [
+        {
+            "name": "生活大爆炸第三季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-06/201806081528439896.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180607/10024_b5f50ea4/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180607/10025_b0d68a01/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180607/10026_cbe3058c/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180607/10027_7190037b/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180607/10028_531bce18/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180607/10029_04f97c2f/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180607/10030_5cfc9920/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180607/10031_402af41f/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180607/10032_59fe9774/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180607/10033_c3547720/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180607/10034_cd0e4b46/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180607/10035_ddfac570/index.m3u8",
+                "第13集": "https://youku.com-youku.net/20180607/10036_60fe3c1e/index.m3u8",
+                "第14集": "https://youku.com-youku.net/20180607/10037_ee0bdce3/index.m3u8",
+                "第15集": "https://youku.com-youku.net/20180607/10038_d4bdca96/index.m3u8",
+                "第16集": "https://youku.com-youku.net/20180607/10039_0cbb20da/index.m3u8",
+                "第17集": "https://youku.com-youku.net/20180607/10040_1664a6ef/index.m3u8",
+                "第18集": "https://youku.com-youku.net/20180607/10041_339bb2ca/index.m3u8",
+                "第19集": "https://youku.com-youku.net/20180607/10042_ff4607d8/index.m3u8",
+                "第20集": "https://youku.com-youku.net/20180607/10043_b1e1d41d/index.m3u8",
+                "第21集": "https://youku.com-youku.net/20180607/10044_9c876c7e/index.m3u8",
+                "第22集": "https://youku.com-youku.net/20180607/10045_31e1b913/index.m3u8",
+                "第23集": "https://youku.com-youku.net/20180607/10046_76054650/index.m3u8"
+            }
+        }
+    ]
+}

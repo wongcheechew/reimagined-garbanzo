@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "伞学院第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-02/15502795010.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200731/19128_4c5a9e76/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200731/19127_e127983b/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200731/19129_acad3ff4/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200731/19130_bf18e626/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200731/19131_ca323934/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200731/19135_4ca748fc/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200731/19133_e193ece2/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200731/19136_98fb0a0f/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200731/19134_60b02d93/index.m3u8",
+                "第10集": "https://youku.cdn11-okzy.com/20200731/19132_13b8a3a0/index.m3u8"
+            }
+        }
+    ]
+}

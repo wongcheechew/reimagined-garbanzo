@@ -1,0 +1,13 @@
+{
+    "RECORDS": [
+        {
+            "name": "说电影《剑风传奇》",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-02/202002011580520790.jpg",
+            "urls": {
+                "上集": "https://good.jieshuo-okzy.com/20200131/2811_17786abd/index.m3u8",
+                "中集": "https://good.jieshuo-okzy.com/20200131/2819_5f15531a/index.m3u8",
+                "下集": "https://good.jieshuo-okzy.com/20200131/2832_63761b1c/index.m3u8"
+            }
+        }
+    ]
+}

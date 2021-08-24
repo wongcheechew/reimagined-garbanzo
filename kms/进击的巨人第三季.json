@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "进击的巨人第三季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-07/15323324370.jpg",
+            "urls": {
+                "第00集": "https://v-sohu.com/20180723/13881_fc49fb01/index.m3u8",
+                "第01集": "https://v-sohu.com/20180723/13882_4560b8dd/index.m3u8",
+                "第02集": "https://tudou.com-l-tudou.com/20190807/21782_cabd8c88/index.m3u8",
+                "第03集": "https://tudou.com-v-tudou.com/20180805/14552_8e68acc6/index.m3u8",
+                "第04集": "https://tudou.com-v-tudou.com/20180812/14889_595f23a4/index.m3u8",
+                "第05集": "https://tudou.com-v-tudou.com/20180819/15203_87ad962e/index.m3u8",
+                "第06集": "https://tudou.com-v-tudou.com/20180826/15521_95ea441a/index.m3u8",
+                "第07集": "https://tudou.com-v-tudou.com/20180902/15842_043c783b/index.m3u8",
+                "第08集": "https://tudou.com-v-tudou.com/20180909/16123_b1395b75/index.m3u8",
+                "第09集": "https://tudou.com-v-tudou.com/20180916/16443_b68f0f89/index.m3u8",
+                "第10集": "https://tudou.com-v-tudou.com/20180923/16774_e716e497/index.m3u8",
+                "第11集": "https://tudou.com-v-tudou.com/20181007/17460_699f6a16/index.m3u8",
+                "第12集": "https://tudou.com-v-tudou.com/20181014/17838_5d88dc62/index.m3u8"
+            }
+        }
+    ]
+}

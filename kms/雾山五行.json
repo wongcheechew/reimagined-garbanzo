@@ -1,0 +1,13 @@
+{
+    "RECORDS": [
+        {
+            "name": "雾山五行",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1595765343.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200726/13084_1d4cd691/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200802/13435_8dbad4c1/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200809/13743_b4c46513/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "RECORDS": [
+        {
+            "name": "空中浩劫第三季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/15268041083.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn2-youku.com/20180520/11417_ce722682/index.m3u8",
+                "第02集": "https://youku.cdn2-youku.com/20180520/11418_e92f848d/index.m3u8",
+                "第03集": "https://youku.cdn2-youku.com/20180520/11419_f4f86ded/index.m3u8",
+                "第04集": "https://youku.cdn2-youku.com/20180520/11420_bd0df56f/index.m3u8",
+                "第05集": "https://youku.cdn2-youku.com/20180520/11421_36ff1c7b/index.m3u8",
+                "第06集": "https://youku.cdn2-youku.com/20180520/11422_bf67c27f/index.m3u8",
+                "第07集": "暂缺",
+                "第08集": "https://youku.cdn2-youku.com/20180520/11424_19388144/index.m3u8",
+                "第09集": "https://youku.cdn2-youku.com/20180520/11428_89de65ec/index.m3u8",
+                "第10集": "https://youku.cdn2-youku.com/20180520/11425_cee907b5/index.m3u8",
+                "第11集": "https://youku.cdn2-youku.com/20180520/11426_644e35de/index.m3u8"
+            }
+        }
+    ]
+}

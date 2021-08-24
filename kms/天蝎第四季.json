@@ -1,0 +1,32 @@
+{
+    "RECORDS": [
+        {
+            "name": "天蝎第四季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-27/15065088398.jpg",
+            "urls": {
+                "第01集": "https://sohu.com-v-sohu.com/20170927/0WghyPpz/index.m3u8",
+                "第02集": "https://sohu.com-v-sohu.com/20171004/9JTmhdzC/index.m3u8",
+                "第03集": "https://sohu.com-v-sohu.com/20171011/rNUClC1Y/index.m3u8",
+                "第04集": "https://sohu.com-v-sohu.com/20171018/1MtH6BVM/index.m3u8",
+                "第05集": "https://sohu.com-v-sohu.com/20171025/e2ybt7jK/index.m3u8",
+                "第06集": "https://sohu.com-v-sohu.com/20171101/Esv4Vfjq/index.m3u8",
+                "第07集": "https://sohu.com-v-sohu.com/20171108/V6JJLKht/index.m3u8",
+                "第08集": "https://bobo.okokbo.com/20171114/kzLBUjjo/index.m3u8",
+                "第09集": "https://bobo.okokbo.com/20171122/aCyMOkIM/index.m3u8",
+                "第10集": "https://bobo.okokbo.com/20180118/571Kdp3m/index.m3u8",
+                "第11集": "https://bobo.okokbo.com/20171213/DchkNC2i/index.m3u8",
+                "第12集": "https://bobo.okokbo.com/20171221/H2Cw3A99/index.m3u8",
+                "第13集": "https://bobo.okokbo.com/20180117/LcQvYRH8/index.m3u8",
+                "第14集": "https://bobo.okokbo.com/20180124/KhnNMvLy/index.m3u8",
+                "第15集": "https://bobo.okokbo.com/20180131/U8Wg8b4n/index.m3u8",
+                "第16集": "https://bobo.okokbo.com/20180207/EpYDBXFA/index.m3u8",
+                "第17集": "https://bobo.okokbo.com/20180228/22dx8sZ6/index.m3u8",
+                "第18集": "https://bobo.okokbo.com/20180307/rgamzoOf/index.m3u8",
+                "第19集": "https://bobo.okokbo.com/20180321/JvKbXo91/index.m3u8",
+                "第20集": "https://bobo.okokbo.com/20180328/9IduHiDH/index.m3u8",
+                "第21集": "https://youku.cdn-56.com/20180411/1042_3c6e05cc/index.m3u8",
+                "第22集": "https://tudou.com-l-tudou.com/20180418/8650_a7be02b8/index.m3u8"
+            }
+        }
+    ]
+}

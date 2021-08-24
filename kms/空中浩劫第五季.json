@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "空中浩劫第五季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/15268043890.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn2-youku.com/20180520/11438_b617e75b/index.m3u8",
+                "第02集": "https://youku.cdn2-youku.com/20180520/11439_62494867/index.m3u8",
+                "第03集": "https://youku.cdn2-youku.com/20180520/11440_10152394/index.m3u8",
+                "第04集": "https://youku.cdn2-youku.com/20180520/11441_0ea7f96b/index.m3u8",
+                "第05集": "https://youku.cdn2-youku.com/20180520/11442_a1708c2a/index.m3u8",
+                "第06集": "https://youku.cdn2-youku.com/20180520/11443_dbc650eb/index.m3u8",
+                "第07集": "https://youku.cdn2-youku.com/20180520/11444_6fa631a3/index.m3u8",
+                "第08集": "https://youku.cdn2-youku.com/20180520/11445_5cdb0061/index.m3u8",
+                "第09集": "https://youku.cdn2-youku.com/20180520/11446_6a3fd18a/index.m3u8",
+                "第10集": "https://youku.cdn2-youku.com/20180520/11447_0b572255/index.m3u8"
+            }
+        }
+    ]
+}

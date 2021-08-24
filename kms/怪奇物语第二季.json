@@ -1,0 +1,19 @@
+{
+    "RECORDS": [
+        {
+            "name": "怪奇物语第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-10-28/15091742161.jpg",
+            "urls": {
+                "第01集": "https://sohu.com-v-sohu.com/20171028/k1B53YGz/index.m3u8",
+                "第02集": "https://sohu.com-v-sohu.com/20171028/xtuNL2p6/index.m3u8",
+                "第03集": "https://sohu.com-v-sohu.com/20171029/X0jKpacF/index.m3u8",
+                "第04集": "https://sohu.com-v-sohu.com/20171029/X7nvIvM3/index.m3u8",
+                "第05集": "https://sohu.com-v-sohu.com/20171029/zykRsfBw/index.m3u8",
+                "第06集": "https://sohu.com-v-sohu.com/20171029/g3V43FMH/index.m3u8",
+                "第07集": "https://sohu.com-v-sohu.com/20171029/HnoW1F2m/index.m3u8",
+                "第08集": "https://sohu.com-v-sohu.com/20171029/5jBWjjFt/index.m3u8",
+                "第09集": "https://sohu.com-v-sohu.com/20171029/GjHOiZir/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "副本第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-02/1582885827.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200228/13280_e94b9c76/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200228/13281_b93bf2f8/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200228/13319_c68f33b7/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200301/13358_7d197d4b/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200301/13370_46a9066c/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200301/13369_f3af54f9/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200302/13409_b600f5af/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200302/13421_f6b882f1/index.m3u8"
+            }
+        }
+    ]
+}

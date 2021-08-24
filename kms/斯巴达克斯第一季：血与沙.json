@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "斯巴达克斯第一季：血与沙",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-05/150459542319.jpg",
+            "urls": {
+                "第01集": "https://56.com-t-56.com/20190222/6238_d03334de/index.m3u8",
+                "第02集": "https://56.com-t-56.com/20190222/6239_0b3a25de/index.m3u8",
+                "第03集": "https://56.com-t-56.com/20190222/6240_0e75db58/index.m3u8",
+                "第04集": "https://56.com-t-56.com/20190222/6241_42f69ba3/index.m3u8",
+                "第05集": "https://56.com-t-56.com/20190222/6242_c855c50a/index.m3u8",
+                "第06集": "https://56.com-t-56.com/20190222/6243_9f2b533a/index.m3u8",
+                "第07集": "https://56.com-t-56.com/20190222/6244_97e02123/index.m3u8",
+                "第08集": "https://56.com-t-56.com/20190222/6245_47d78bc1/index.m3u8",
+                "第09集": "https://56.com-t-56.com/20190222/6246_a4765a34/index.m3u8",
+                "第10集": "https://56.com-t-56.com/20190222/6247_453c17f2/index.m3u8",
+                "第11集": "https://56.com-t-56.com/20190222/6248_09e2437a/index.m3u8",
+                "第12集": "https://56.com-t-56.com/20190222/6249_93776ec5/index.m3u8",
+                "第13集": "https://56.com-t-56.com/20190222/6250_89546f94/index.m3u8"
+            }
+        }
+    ]
+}

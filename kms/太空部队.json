@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "太空部队",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-05/1590786856.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200529/17033_7d18cb2d/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200529/17032_6eaae991/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200529/17031_2e09ab51/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200529/17030_0ce8fdd4/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200529/17029_b5e2e52b/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200529/17028_3d91b169/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200529/17027_52e6fbb9/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200529/17026_1b740962/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200529/17025_58a2b36c/index.m3u8",
+                "第10集": "https://youku.cdn11-okzy.com/20200529/17024_df805652/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "亲吻姐姐",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-07/201807101531220898.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180709/18574_3b525e51/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180709/18575_67b0d3d6/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180709/18576_6064de1d/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180709/18577_fc84c527/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180709/18578_fa666bfd/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180709/18579_b412c8bc/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180709/18580_2e984575/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180709/18581_61794106/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180709/18582_af125f65/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180709/18583_7919b385/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180709/18584_ce17816a/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180709/18585_9f5250b9/index.m3u8"
+            }
+        }
+    ]
+}

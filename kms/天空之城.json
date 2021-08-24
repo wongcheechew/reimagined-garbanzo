@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "天空之城",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-14/201709141505374378.jpg",
+            "urls": {
+                "日语": "https://youku.com-l-youku.com/20181204/241_c4b9f3fd/index.m3u8",
+                "国语": "https://youku.com-l-youku.com/20181204/256_69121e32/index.m3u8"
+            }
+        }
+    ]
+}

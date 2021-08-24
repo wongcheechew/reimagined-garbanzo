@@ -1,0 +1,40 @@
+{
+    "RECORDS": [
+        {
+            "name": "仙剑客栈",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-08/156471995919.jpg",
+            "urls": {
+                "第01集": "https://youku.com-a-youku.com/20190731/15296_86d8853d/index.m3u8",
+                "第02集": "https://youku.com-a-youku.com/20190731/15297_633f09bd/index.m3u8",
+                "第03集": "https://youku.com-a-youku.com/20190731/15298_0bb57a62/index.m3u8",
+                "第04集": "https://youku.com-a-youku.com/20190731/15299_c4cd3687/index.m3u8",
+                "第05集": "https://youku.com-a-youku.com/20190731/15300_4e918648/index.m3u8",
+                "第06集": "https://youku.com-a-youku.com/20190731/15301_4c51ce55/index.m3u8",
+                "第07集": "https://youku.com-a-youku.com/20190731/15302_daa2c211/index.m3u8",
+                "第08集": "https://youku.com-a-youku.com/20190731/15303_bbdeea08/index.m3u8",
+                "第09集": "https://youku.com-a-youku.com/20190731/15304_42b6aedf/index.m3u8",
+                "第10集": "https://youku.com-a-youku.com/20190731/15305_33579ca5/index.m3u8",
+                "第11集": "https://youku.com-a-youku.com/20190731/15306_51b78fe4/index.m3u8",
+                "第12集": "https://youku.com-a-youku.com/20190731/15307_7b4f37d2/index.m3u8",
+                "第13集": "https://youku.com-a-youku.com/20190731/15308_69997c4c/index.m3u8",
+                "第14集": "https://youku.com-a-youku.com/20190731/15309_232ffb79/index.m3u8",
+                "第15集": "https://youku.com-a-youku.com/20190731/15310_89a2a95f/index.m3u8",
+                "第16集": "https://youku.com-a-youku.com/20190801/15311_445d994e/index.m3u8",
+                "第17集": "https://youku.com-a-youku.com/20190801/15312_e95d3270/index.m3u8",
+                "第18集": "https://youku.com-a-youku.com/20190801/15313_20009510/index.m3u8",
+                "第19集": "https://youku.com-a-youku.com/20190801/15314_ff7c22de/index.m3u8",
+                "第20集": "https://youku.com-a-youku.com/20190801/15315_c76a6955/index.m3u8",
+                "第21集": "https://youku.com-a-youku.com/20190801/15316_b96c24a9/index.m3u8",
+                "第22集": "https://youku.com-a-youku.com/20190801/15317_555b53b5/index.m3u8",
+                "第23集": "https://youku.com-a-youku.com/20190801/15318_f8c8d63e/index.m3u8",
+                "第24集": "https://youku.com-a-youku.com/20190801/15319_3363ddcf/index.m3u8",
+                "第25集": "https://youku.com-a-youku.com/20190801/15320_bd77ab2b/index.m3u8",
+                "第26集": "https://youku.com-a-youku.com/20190801/15321_2b135760/index.m3u8",
+                "第27集": "https://youku.com-a-youku.com/20190801/15322_70007c59/index.m3u8",
+                "第28集": "https://youku.com-a-youku.com/20190801/15323_63219f34/index.m3u8",
+                "第29集": "https://youku.com-a-youku.com/20190801/15324_e40ffe0a/index.m3u8",
+                "第30集": "https://youku.com-a-youku.com/20190801/15325_379ec550/index.m3u8"
+            }
+        }
+    ]
+}

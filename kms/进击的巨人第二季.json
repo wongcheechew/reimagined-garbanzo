@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "进击的巨人第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-04/201804281524906684.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn-163.com/20180428/6695_0cd1daf9/index.m3u8",
+                "第02集": "https://youku.cdn-163.com/20180428/6696_384b5eed/index.m3u8",
+                "第03集": "https://youku.cdn-163.com/20180428/6697_0d1ca0cb/index.m3u8",
+                "第04集": "https://youku.cdn-163.com/20180428/6698_5f9047fb/index.m3u8",
+                "第05集": "https://youku.cdn-163.com/20180428/6699_40ee3d63/index.m3u8",
+                "第06集": "https://youku.cdn-163.com/20180428/6700_f266011a/index.m3u8",
+                "第07集": "https://youku.cdn-163.com/20180428/6701_d3619073/index.m3u8",
+                "第08集": "https://youku.cdn-163.com/20180428/6702_905b6f10/index.m3u8",
+                "第09集": "https://youku.cdn-163.com/20180428/6703_079eb541/index.m3u8",
+                "第10集": "https://youku.cdn-163.com/20180428/6704_b02bf258/index.m3u8",
+                "第11集": "https://youku.cdn-163.com/20180428/6705_9c37648d/index.m3u8",
+                "第12集": "https://youku.cdn-163.com/20180428/6706_f3b61480/index.m3u8"
+            }
+        }
+    ]
+}

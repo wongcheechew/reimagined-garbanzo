@@ -1,0 +1,30 @@
+{
+    "RECORDS": [
+        {
+            "name": "危机边缘第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-02/1581363095.jpg",
+            "urls": {
+                "第01集": "https://youku.com-ok-youku.com/20200211/19416_397cda4e/index.m3u8",
+                "第02集": "https://youku.com-ok-youku.com/20200211/19417_778175cc/index.m3u8",
+                "第03集": "https://youku.com-ok-youku.com/20200211/19418_d359c124/index.m3u8",
+                "第04集": "https://youku.com-ok-youku.com/20200211/19419_df3b162c/index.m3u8",
+                "第05集": "https://youku.com-ok-youku.com/20200211/19420_2ad47835/index.m3u8",
+                "第06集": "https://youku.com-ok-youku.com/20200211/19421_01ace3fe/index.m3u8",
+                "第07集": "https://youku.com-ok-youku.com/20200211/19422_e2f58f6e/index.m3u8",
+                "第08集": "https://youku.com-ok-youku.com/20200211/19423_173631b1/index.m3u8",
+                "第09集": "https://youku.com-ok-youku.com/20200211/19424_632f824a/index.m3u8",
+                "第10集": "https://youku.com-ok-youku.com/20200211/19425_3d089956/index.m3u8",
+                "第11集": "https://youku.com-ok-youku.com/20200211/19426_585ae4d2/index.m3u8",
+                "第12集": "https://youku.com-ok-youku.com/20200211/19427_f5c95309/index.m3u8",
+                "第13集": "https://youku.com-ok-youku.com/20200211/19428_57ec33f9/index.m3u8",
+                "第14集": "https://youku.com-ok-youku.com/20200211/19429_087b8b0c/index.m3u8",
+                "第15集": "https://youku.com-ok-youku.com/20200211/19430_b8a423ba/index.m3u8",
+                "第16集": "https://youku.com-ok-youku.com/20200211/19431_2a812ed9/index.m3u8",
+                "第17集": "https://youku.com-ok-youku.com/20200211/19432_06a30a5d/index.m3u8",
+                "第18集": "https://youku.com-ok-youku.com/20200211/19433_63138e9e/index.m3u8",
+                "第19集": "https://youku.com-ok-youku.com/20200211/19434_19129963/index.m3u8",
+                "第20集": "https://youku.com-ok-youku.com/20200211/19435_86b23411/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "说电影《提线木偶》",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-01/202001131578879079.jpeg",
+            "url": "https://good.jieshuo-okzy.com/20200112/2134_9bfed174/index.m3u8",
+            "urls": {
+                "全一集": "https://good.jieshuo-okzy.com/20200112/2134_9bfed174/index.m3u8"
+            }
+        }
+    ]
+}

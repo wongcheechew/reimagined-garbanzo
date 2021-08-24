@@ -1,0 +1,21 @@
+{
+    "RECORDS": [
+        {
+            "name": "跨界歌王VIP加长版第四季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-10/1571671118.jpg",
+            "urls": {
+                "20191014": "https://youku.com-ok-ifeng.com/20191015/3175_ca8c8682/index.m3u8",
+                "20191021": "https://youku.com-ok-ifeng.com/20191021/3343_b778c59b/index.m3u8",
+                "20191028": "https://youku.cdn3-okzy.com/20191028/3538_9eb59434/index.m3u8",
+                "20191104": "https://youku.cdn3-okzy.com/20191104/3762_f946e16b/index.m3u8",
+                "20191111": "https://youku.cdn3-okzy.com/20191111/3964_8f457504/index.m3u8",
+                "20191118": "https://youku.cdn3-okzy.com/20191118/4166_fd328a17/index.m3u8",
+                "20191125": "https://youku.cdn3-okzy.com/20191125/4385_0ea8f1de/index.m3u8",
+                "20191202": "https://youku.cdn3-okzy.com/20191202/4602_0d6bac44/index.m3u8",
+                "20191209": "https://youku.cdn3-okzy.com/20191209/4801_6f8e4485/index.m3u8",
+                "20191216": "https://youku.cdn3-okzy.com/20191216/5081_8fd2de65/index.m3u8",
+                "20191223": "https://youku.cdn3-okzy.com/20191223/5281_8c9b7d96/index.m3u8"
+            }
+        }
+    ]
+}

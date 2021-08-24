@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "小丑脸",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/202008201597855768.jpg",
+            "url": "https://iqiyi.cdn27-okzy.com/20200819/7253_05e199da/index.m3u8",
+            "urls": {
+                "HD中字": "https://iqiyi.cdn27-okzy.com/20200819/7253_05e199da/index.m3u8"
+            }
+        }
+    ]
+}

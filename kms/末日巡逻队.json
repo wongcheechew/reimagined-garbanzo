@@ -1,0 +1,25 @@
+{
+    "RECORDS": [
+        {
+            "name": "末日巡逻队",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-02/15503209460.jpg",
+            "urls": {
+                "第01集": "https://pptv.com-h-pptv.com/20190216/14733_0c9a1eff/index.m3u8",
+                "第02集": "https://pptv.com-h-pptv.com/20190223/15124_eca64603/index.m3u8",
+                "第03集": "https://qq.com-l-qq.com/20190302/8855_eee40cf6/index.m3u8",
+                "第04集": "https://qq.com-l-qq.com/20190312/9125_a38c4399/index.m3u8",
+                "第05集": "https://iqiyi.com-t-iqiyi.com/20190316/119_85937657/index.m3u8",
+                "第06集": "https://iqiyi.com-t-iqiyi.com/20190323/482_3055d7d1/index.m3u8",
+                "第07集": "https://iqiyi.com-t-iqiyi.com/20190330/786_c5af2e5f/index.m3u8",
+                "第08集": "https://iqiyi.com-t-iqiyi.com/20190406/1068_b40c6e3f/index.m3u8",
+                "第09集": "https://iqiyi.com-t-iqiyi.com/20190413/1343_e4404af7/index.m3u8",
+                "第10集": "https://iqiyi.com-t-iqiyi.com/20190420/1664_7dd0155f/index.m3u8",
+                "第11集": "https://iqiyi.com-t-iqiyi.com/20190427/1943_bfb82984/index.m3u8",
+                "第12集": "https://iqiyi.com-t-iqiyi.com/20190504/2245_1e16a01e/index.m3u8",
+                "第13集": "https://iqiyi.com-t-iqiyi.com/20190511/2496_4c776846/index.m3u8",
+                "第14集": "https://iqiyi.com-t-iqiyi.com/20190518/2778_249c8c45/index.m3u8",
+                "第15集": "https://iqiyi.com-t-iqiyi.com/20190526/3065_de0ef97c/index.m3u8"
+            }
+        }
+    ]
+}

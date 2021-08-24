@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "风味人间",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-10/15408436272.jpg",
+            "urls": {
+                "第01集": "https://qq.com-v-qq.com/20181029/8168_a9c90a85/index.m3u8",
+                "第02集": "https://qq.com-v-qq.com/20181104/8362_b8eafb74/index.m3u8",
+                "第03集": "https://baidu.com-l-baidu.com/20181111/8623_96df4050/index.m3u8",
+                "第04集": "https://baidu.com-l-baidu.com/20181118/8864_c62d14db/index.m3u8",
+                "第05集": "https://youku.cdn-2-okzy.com/20181126/19670_f528dfac/index.m3u8",
+                "第06集": "https://baidu.com-l-baidu.com/20181202/9271_7b2c8a20/index.m3u8",
+                "第07集": "https://baidu.com-l-baidu.com/20181209/9648_75711af6/index.m3u8",
+                "第08集": "https://youku.cdn-2-okzy.com/20181216/20049_25822267/index.m3u8"
+            }
+        }
+    ]
+}

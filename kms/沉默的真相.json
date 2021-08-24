@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "沉默的真相",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-09/1600256393.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200916/15492_d6ed2aea/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200916/15493_ff7762e5/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200917/15523_3343d3b8/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20200917/15522_61d94d67/index.m3u8",
+                "第05集": "https://iqiyi.cdn9-okzy.com/20200918/15574_3763fbe0/index.m3u8",
+                "第06集": "https://iqiyi.cdn9-okzy.com/20200918/15575_ba8a57fb/index.m3u8",
+                "第07集": "https://iqiyi.cdn27-okzy.com/20200918/7658_5f20adcc/index.m3u8",
+                "第08集": "https://iqiyi.cdn27-okzy.com/20200918/7657_7eb311d4/index.m3u8",
+                "第09集": "https://iqiyi.cdn27-okzy.com/20200918/7656_766f0698/index.m3u8",
+                "第10集": "https://iqiyi.cdn27-okzy.com/20200918/7655_9afd9602/index.m3u8",
+                "第11集": "https://iqiyi.cdn27-okzy.com/20200918/7654_fcf9ce30/index.m3u8",
+                "第12集": "https://iqiyi.cdn27-okzy.com/20200918/7653_6959c0d8/index.m3u8"
+            }
+        }
+    ]
+}

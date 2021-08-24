@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "name": "地球脉动第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-06/201806111528722934.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180611/11314_1987cfe5/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180611/11315_9070d7c2/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180611/11316_34c53824/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180611/11317_3795425a/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180611/11318_3a3de29a/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180611/11319_8e01cdf8/index.m3u8"
+            }
+        }
+    ]
+}

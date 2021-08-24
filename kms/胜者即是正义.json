@@ -1,0 +1,21 @@
+{
+    "RECORDS": [
+        {
+            "name": "胜者即是正义",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15339914036.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180810/7583_4bd82021/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180810/7584_8b159173/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180810/7585_805b5bf2/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180810/7586_1f3da523/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180810/7587_613e2f4d/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180810/7588_10c2b0f8/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180810/7589_44f5e798/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180810/7590_80bfc763/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180810/7591_01a2b8a4/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180810/7592_8e6d6cc8/index.m3u8",
+                "第11集": "https://sina.com-h-sina.com/20180810/7593_ff05272d/index.m3u8"
+            }
+        }
+    ]
+}

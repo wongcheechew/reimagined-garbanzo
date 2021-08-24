@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "说电影《速度与激情2》",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-04/202004101586480369.jpeg",
+            "url": "https://good.jieshuo-okzy.com/20200409/5158_ac3bc0b1/index.m3u8",
+            "urls": {
+                "全集": "https://good.jieshuo-okzy.com/20200409/5158_ac3bc0b1/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "说电影《永无止境》",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-11/201911051572938704.jpeg",
+            "url": "https://good.jieshuo-okzy.com/20191105/100_4985078a/index.m3u8",
+            "urls": {
+                "全一回集": "https://good.jieshuo-okzy.com/20191105/100_4985078a/index.m3u8"
+            }
+        }
+    ]
+}

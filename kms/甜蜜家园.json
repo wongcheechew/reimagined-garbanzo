@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "甜蜜家园",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-12/1608289613.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn31-okzy.com/20201218/2008_c319f44a/index.m3u8",
+                "第02集": "https://youku.cdn31-okzy.com/20201218/2009_5a22657a/index.m3u8",
+                "第03集": "https://youku.cdn31-okzy.com/20201218/2010_57dafb63/index.m3u8",
+                "第04集": "https://youku.cdn31-okzy.com/20201218/2012_06cbbc5a/index.m3u8",
+                "第05集": "https://youku.cdn31-okzy.com/20201218/2013_fce721e5/index.m3u8",
+                "第06集": "https://youku.cdn31-okzy.com/20201218/2011_7a9d71d2/index.m3u8",
+                "第07集": "https://youku.cdn31-okzy.com/20201218/2014_a79bab91/index.m3u8",
+                "第08集": "https://youku.cdn31-okzy.com/20201218/2016_6da45a2c/index.m3u8",
+                "第09集": "https://youku.cdn31-okzy.com/20201218/2017_e664a7bf/index.m3u8",
+                "第10集": "https://youku.cdn31-okzy.com/20201218/2015_6500d844/index.m3u8"
+            }
+        }
+    ]
+}

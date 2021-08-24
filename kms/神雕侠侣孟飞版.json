@@ -1,0 +1,28 @@
+{
+    "RECORDS": [
+        {
+            "name": "神雕侠侣孟飞版",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-11/1572843712.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn5-okzy.com/20191102/6077_9687964b/index.m3u8",
+                "第02集": "https://youku.cdn5-okzy.com/20191102/6078_ad04fc53/index.m3u8",
+                "第03集": "https://youku.cdn5-okzy.com/20191102/6079_f4db7ab8/index.m3u8",
+                "第04集": "https://youku.cdn5-okzy.com/20191102/6080_e1fa75a7/index.m3u8",
+                "第05集": "https://youku.cdn5-okzy.com/20191102/6081_7adfe3f5/index.m3u8",
+                "第06集": "https://youku.cdn5-okzy.com/20191102/6082_d2bb8602/index.m3u8",
+                "第07集": "https://youku.cdn5-okzy.com/20191102/6083_7b85068b/index.m3u8",
+                "第08集": "https://youku.cdn5-okzy.com/20191102/6084_dc61874f/index.m3u8",
+                "第09集": "https://youku.cdn5-okzy.com/20191102/6085_0a59dbf7/index.m3u8",
+                "第10集": "https://youku.cdn5-okzy.com/20191102/6086_9d75178e/index.m3u8",
+                "第11集": "https://youku.cdn5-okzy.com/20191102/6087_b2368925/index.m3u8",
+                "第12集": "https://youku.cdn5-okzy.com/20191102/6088_4791d1e5/index.m3u8",
+                "第13集": "https://youku.cdn5-okzy.com/20191102/6089_bcc224c6/index.m3u8",
+                "第14集": "https://youku.cdn5-okzy.com/20191102/6090_2629ebd7/index.m3u8",
+                "第15集": "https://youku.cdn5-okzy.com/20191102/6091_6cf30c99/index.m3u8",
+                "第16集": "https://youku.cdn5-okzy.com/20191102/6092_15e9c46b/index.m3u8",
+                "第17集": "https://youku.cdn5-okzy.com/20191102/6093_194cf601/index.m3u8",
+                "第18集": "https://youku.cdn5-okzy.com/20191102/6094_2e3ace38/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "RECORDS": [
+        {
+            "name": "以家人之名DVD版",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1597070267.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn4-okzy.com/20200810/9490_a57fa275/index.m3u8",
+                "第02集": "https://youku.cdn4-okzy.com/20200810/9491_4b7bdec4/index.m3u8",
+                "第03集": "https://youku.cdn4-okzy.com/20200811/9503_5abe704e/index.m3u8",
+                "第04集": "https://youku.cdn4-okzy.com/20200811/9504_ddbee346/index.m3u8",
+                "第05集": "https://youku.cdn4-okzy.com/20200812/9550_7d6e7ead/index.m3u8",
+                "第06集": "https://youku.cdn4-okzy.com/20200812/9551_f5a7025a/index.m3u8",
+                "第07集": "https://youku.cdn4-okzy.com/20200813/9574_a4842cbe/index.m3u8",
+                "第08集": "https://youku.cdn4-okzy.com/20200814/9595_12457bf2/index.m3u8",
+                "第09集": "https://youku.cdn4-okzy.com/20200815/9609_2bc64cca/index.m3u8"
+            }
+        }
+    ]
+}

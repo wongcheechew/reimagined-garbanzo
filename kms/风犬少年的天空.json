@@ -1,0 +1,26 @@
+{
+    "RECORDS": [
+        {
+            "name": "风犬少年的天空",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-09/1600955419.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn2-okzy.com/20200924/11550_bc08aca0/index.m3u8",
+                "第02集": "https://youku.cdn2-okzy.com/20200924/11551_ff735561/index.m3u8",
+                "第03集": "https://youku.cdn2-okzy.com/20200924/11552_81059a36/index.m3u8",
+                "第04集": "https://youku.cdn2-okzy.com/20200925/11567_46295284/index.m3u8",
+                "第05集": "https://youku.cdn2-okzy.com/20200925/11568_c348fb43/index.m3u8",
+                "第06集": "https://youku.cdn2-okzy.com/20201001/11705_96992539/index.m3u8",
+                "第07集": "https://youku.cdn2-okzy.com/20201001/11706_09b0affc/index.m3u8",
+                "第08集": "https://youku.cdn2-okzy.com/20201002/11732_b4320362/index.m3u8",
+                "第09集": "https://youku.cdn2-okzy.com/20201002/11733_b8521b32/index.m3u8",
+                "第10集": "https://youku.cdn2-okzy.com/20201007/11803_cf021770/index.m3u8",
+                "第11集": "https://youku.cdn2-okzy.com/20201007/11804_b3db6ea1/index.m3u8",
+                "第12集": "https://youku.cdn2-okzy.com/20201008/11810_5203e434/index.m3u8",
+                "第13集": "https://youku.cdn2-okzy.com/20201008/11811_8be6d32e/index.m3u8",
+                "第14集": "https://youku.cdn2-okzy.com/20201015/11924_27ccdf14/index.m3u8",
+                "第15集": "https://youku.cdn2-okzy.com/20201015/11925_0368cf82/index.m3u8",
+                "第16集": "https://youku.cdn2-okzy.com/20201022/12012_33c70acd/index.m3u8"
+            }
+        }
+    ]
+}

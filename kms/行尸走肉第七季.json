@@ -1,0 +1,26 @@
+{
+    "RECORDS": [
+        {
+            "name": "行尸走肉第七季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-07/15325428890.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180615/12251_cf66e920/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180615/12252_064c983b/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180615/12253_4658e3e8/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180615/12254_76c1fc67/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180615/12255_daaf060c/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180615/12256_3e1a9324/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180615/12257_91c46e67/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180615/12258_78f606b0/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180615/12259_67fa83c0/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180615/12260_2dfee988/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180615/12261_c8d78687/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180615/12262_787fab0c/index.m3u8",
+                "第13集": "https://youku.com-youku.net/20180615/12263_86952411/index.m3u8",
+                "第14集": "https://youku.com-youku.net/20180615/12264_5c139189/index.m3u8",
+                "第15集": "https://youku.com-youku.net/20180615/12265_69e7b067/index.m3u8",
+                "第16集": "https://youku.com-youku.net/20180615/12266_36435aae/index.m3u8"
+            }
+        }
+    ]
+}

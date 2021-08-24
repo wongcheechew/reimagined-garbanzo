@@ -1,0 +1,24 @@
+{
+    "RECORDS": [
+        {
+            "name": "中国好声音2020",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1598110877.jpg",
+            "urls": {
+                "20200821": "https://youku.cdn3-okzy.com/20200822/12279_6e7c01d4/index.m3u8",
+                "20200828": "https://youku.cdn3-okzy.com/20200831/12537_d90441b4/index.m3u8",
+                "20200904": "https://youku.cdn3-okzy.com/20200905/12720_ce5d3968/index.m3u8",
+                "20200911": "https://youku.cdn3-okzy.com/20200911/12897_86d42ebe/index.m3u8",
+                "20200918": "https://youku.cdn3-okzy.com/20200918/13045_91ea3a84/index.m3u8",
+                "20200925": "https://youku.cdn3-okzy.com/20200926/13274_9ae55d03/index.m3u8",
+                "20201002": "https://youku.cdn3-okzy.com/20201002/13446_3faae254/index.m3u8",
+                "20201008": "https://youku.cdn3-okzy.com/20201010/13680_3bebd6fd/index.m3u8",
+                "20201023": "https://youku.cdn3-okzy.com/20201103/14315_f00df509/index.m3u8",
+                "20201031": "https://youku.cdn3-okzy.com/20201103/14313_f4fa1058/index.m3u8",
+                "20201107": "https://youku.cdn3-okzy.com/20201112/14588_889859e3/index.m3u8",
+                "20201113": "https://youku.cdn3-okzy.com/20201114/14635_1a5d0396/index.m3u8",
+                "20201117": "https://youku.cdn3-okzy.com/20201120/14826_4fd54c7b/index.m3u8",
+                "20201120": "https://youku.cdn3-okzy.com/20201120/14825_e1b73386/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "孤独的美食家第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/153318593518.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180801/4661_0c318bc4/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180801/4662_b5df99be/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180801/4663_ed5e8af1/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180801/4664_e85c905d/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180801/4665_4e6ff3a7/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180801/4666_88727e02/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180801/4667_84b72fad/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180801/4668_b5a42a26/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180801/4669_c7401f8b/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180801/4670_12cadf07/index.m3u8",
+                "第11集": "https://sina.com-h-sina.com/20180801/4671_57d75aa4/index.m3u8",
+                "第12集": "https://sina.com-h-sina.com/20180801/4672_0f8e67b6/index.m3u8"
+            }
+        }
+    ]
+}

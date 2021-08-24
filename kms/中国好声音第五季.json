@@ -1,0 +1,25 @@
+{
+    "RECORDS": [
+        {
+            "name": "中国好声音第五季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-07/153154677119.jpg",
+            "urls": {
+                "180713期": "https://v-sohu.com/20180713/13461_8979bc2d/index.m3u8",
+                "180727期": "https://tudou.com-v-tudou.com/20180727/14080_79968d0d/index.m3u8",
+                "180803期": "https://tudou.com-v-tudou.com/20180803/14401_e1cb6375/index.m3u8",
+                "180810期": "https://tudou.com-v-tudou.com/20180810/14782_01729413/index.m3u8",
+                "180817期": "https://tudou.com-v-tudou.com/20180817/15102_1b952dda/index.m3u8",
+                "180824期": "https://tudou.com-v-tudou.com/20180824/15410_5fd2c9d6/index.m3u8",
+                "180831期": "https://tudou.com-v-tudou.com/20180831/15736_4deea3dd/index.m3u8",
+                "180907期": "https://tudou.com-v-tudou.com/20180907/16028_26252062/index.m3u8",
+                "180914期": "https://tudou.com-v-tudou.com/20180914/16343_b60435d7/index.m3u8",
+                "180921期": "https://tudou.com-v-tudou.com/20180921/16664_15ac2872/index.m3u8",
+                "中秋演唱会": "https://tudou.com-v-tudou.com/20180928/16986_a1d43f60/index.m3u8",
+                "180928期": "https://tudou.com-v-tudou.com/20180928/17008_3b4754be/index.m3u8",
+                "180930期": "https://tudou.com-v-tudou.com/20180930/17087_f4ba9a4d/index.m3u8",
+                "181007期": "https://tudou.com-v-tudou.com/20181008/17487_5117e62f/index.m3u8",
+                "181012期": "https://tudou.com-v-tudou.com/20181012/17720_50feebd2/index.m3u8"
+            }
+        }
+    ]
+}

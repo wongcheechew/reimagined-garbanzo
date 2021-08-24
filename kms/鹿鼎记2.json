@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "鹿鼎记2",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-11/15428778530.jpg",
+            "urls": {
+                "粤语": "https://sina.com-h-sina.com/20181121/21928_c99faea0/index.m3u8",
+                "国语": "https://sina.com-h-sina.com/20181121/21929_3344d7d4/index.m3u8"
+            }
+        }
+    ]
+}

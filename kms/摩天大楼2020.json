@@ -1,0 +1,26 @@
+{
+    "RECORDS": [
+        {
+            "name": "摩天大楼2020",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1597838143.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn4-okzy.com/20200819/9708_3c297088/index.m3u8",
+                "第02集": "https://youku.cdn4-okzy.com/20200819/9709_9a2e887b/index.m3u8",
+                "第03集": "https://youku.cdn4-okzy.com/20200819/9710_73ceb5e0/index.m3u8",
+                "第04集": "https://youku.cdn4-okzy.com/20200819/9711_28acc240/index.m3u8",
+                "第05集": "https://youku.cdn4-okzy.com/20200820/9728_bd0b9c53/index.m3u8",
+                "第06集": "https://youku.cdn4-okzy.com/20200820/9729_450a955f/index.m3u8",
+                "第07集": "https://youku.cdn4-okzy.com/20200821/9740_85475a77/index.m3u8",
+                "第08集": "https://youku.cdn4-okzy.com/20200821/9741_2092509a/index.m3u8",
+                "第09集": "https://youku.cdn2-okzy.com/20200821/11104_68bdda06/index.m3u8",
+                "第10集": "https://youku.cdn2-okzy.com/20200821/11105_70d8ce9b/index.m3u8",
+                "第11集": "https://youku.cdn2-okzy.com/20200821/11106_2968b7fe/index.m3u8",
+                "第12集": "https://youku.cdn2-okzy.com/20200821/11107_304a885a/index.m3u8",
+                "第13集": "https://youku.cdn2-okzy.com/20200821/11108_2253fb6f/index.m3u8",
+                "第14集": "https://youku.cdn2-okzy.com/20200821/11109_e71f3a0f/index.m3u8",
+                "第15集": "https://youku.cdn2-okzy.com/20200821/11110_c19b2650/index.m3u8",
+                "第16集": "https://youku.cdn2-okzy.com/20200821/11111_48920ee6/index.m3u8"
+            }
+        }
+    ]
+}

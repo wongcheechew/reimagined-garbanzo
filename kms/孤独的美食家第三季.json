@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "孤独的美食家第三季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15331859402.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180801/4673_3adae7f6/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180801/4674_08f8c5e8/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180801/4675_514499c5/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180801/4676_43f68578/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180801/4677_b6f45c11/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180801/4678_68038c55/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180801/4679_67776d4d/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180801/4680_1a50fed2/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180801/4681_937720f7/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180801/4682_790fb51d/index.m3u8",
+                "第11集": "https://sina.com-h-sina.com/20180801/4683_b57df22f/index.m3u8",
+                "第12集": "https://sina.com-h-sina.com/20180801/4684_0447cf7b/index.m3u8"
+            }
+        }
+    ]
+}

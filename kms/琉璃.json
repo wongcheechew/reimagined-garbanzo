@@ -1,0 +1,27 @@
+{
+    "RECORDS": [
+        {
+            "name": "琉璃",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1596717386.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200806/13595_5fcaeb37/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200806/13596_925012a7/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200806/13597_53f9dcac/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20200806/13598_3a5997ca/index.m3u8",
+                "第05集": "https://iqiyi.cdn9-okzy.com/20200806/13599_5d24a43a/index.m3u8",
+                "第06集": "https://iqiyi.cdn9-okzy.com/20200806/13600_671311ca/index.m3u8",
+                "第07集": "https://iqiyi.cdn9-okzy.com/20200807/13639_a87c9efe/index.m3u8",
+                "第08集": "https://iqiyi.cdn9-okzy.com/20200807/13640_fbb478ec/index.m3u8",
+                "第09集": "https://iqiyi.cdn9-okzy.com/20200809/13741_45801afd/index.m3u8",
+                "第10集": "https://iqiyi.cdn9-okzy.com/20200809/13742_3437b332/index.m3u8",
+                "第11集": "https://iqiyi.cdn9-okzy.com/20200810/13772_614fbed9/index.m3u8",
+                "第12集": "https://iqiyi.cdn9-okzy.com/20200810/13773_42a82873/index.m3u8",
+                "第13集": "https://iqiyi.cdn9-okzy.com/20200811/13817_120ce183/index.m3u8",
+                "第14集": "https://iqiyi.cdn9-okzy.com/20200811/13818_675212ae/index.m3u8",
+                "第15集": "https://iqiyi.cdn9-okzy.com/20200812/13900_e0c8c261/index.m3u8",
+                "第16集": "https://iqiyi.cdn9-okzy.com/20200812/13901_14e3eb96/index.m3u8",
+                "第17集": "https://iqiyi.cdn9-okzy.com/20200812/13902_16653330/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "跨界歌王第三季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/15255954113.jpg",
+            "urls": {
+                "180505期": "https://youku.cdn-2-okzy.com/20180506/10618_7a094cc8/index.m3u8",
+                "180512期": "https://youku.cdn-2-okzy.com/20180513/10885_6ff364a5/index.m3u8",
+                "180519期": "https://youku.cdn-2-okzy.com/20180520/11262_88fef0a1/index.m3u8",
+                "180526期": "https://youku.cdn-2-okzy.com/20180527/11522_b019eddf/index.m3u8",
+                "180602期": "https://youku.cdn-2-okzy.com/20180602/11824_ad17e951/index.m3u8",
+                "180623期": "https://youku.cdn-2-okzy.com/20180624/12657_53926591/index.m3u8",
+                "180630期": "https://youku.cdn-2-okzy.com/20180701/12943_02d3ad3a/index.m3u8",
+                "180707期": "https://youku.cdn-2-okzy.com/20180707/13224_5523fead/index.m3u8",
+                "180714期": "https://v-sohu.com/20180714/13490_b72aa789/index.m3u8",
+                "180721期": "https://v-sohu.com/20180721/13810_4ce5969b/index.m3u8",
+                "180728期": "https://tudou.com-v-tudou.com/20180730/14191_738eaaec/index.m3u8",
+                "180804期": "https://tudou.com-v-tudou.com/20180805/14538_5e94a4df/index.m3u8",
+                "180811期": "https://tudou.com-v-tudou.com/20180811/14855_6a1bfc90/index.m3u8"
+            }
+        }
+    ]
+}

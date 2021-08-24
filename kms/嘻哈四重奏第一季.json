@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "嘻哈四重奏第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-09/153745716714.jpg",
+            "urls": {
+                "第01集": "https://bilibili.com-l-163.com/20180919/2904_dfcf7542/index.m3u8",
+                "第02集": "https://bilibili.com-l-163.com/20180919/2905_920740bf/index.m3u8",
+                "第03集": "https://bilibili.com-l-163.com/20180919/2906_d861341c/index.m3u8",
+                "第04集": "https://bilibili.com-l-163.com/20180919/2907_b17e24d8/index.m3u8",
+                "第05集": "https://bilibili.com-l-163.com/20180919/2908_ca3fbc56/index.m3u8",
+                "第06集": "https://bilibili.com-l-163.com/20180919/2909_892e15b4/index.m3u8",
+                "第07集": "https://bilibili.com-l-163.com/20180919/2910_4f3beae9/index.m3u8",
+                "第08集": "https://bilibili.com-l-163.com/20180919/2911_77754565/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "RECORDS": [
+        {
+            "name": "咱们裸熊第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-09/15373530094.jpg",
+            "urls": {
+                "第01集-第02集": "https://bilibili.com-l-163.com/20180918/2509_bcae2df4/index.m3u8",
+                "第03集-第04集": "https://bilibili.com-l-163.com/20180918/2510_54962421/index.m3u8",
+                "第05集-第06集": "https://bilibili.com-l-163.com/20180918/2511_507f95d1/index.m3u8",
+                "第07集": "https://bilibili.com-l-163.com/20180918/2512_9f275051/index.m3u8",
+                "第08集": "https://bilibili.com-l-163.com/20180918/2513_8f927300/index.m3u8",
+                "第09集": "https://bilibili.com-l-163.com/20180918/2514_d9bded20/index.m3u8",
+                "第10集": "https://bilibili.com-l-163.com/20180918/2515_cfd96861/index.m3u8",
+                "第11集": "https://bilibili.com-l-163.com/20180918/2516_dd95b8a8/index.m3u8",
+                "第12集": "https://bilibili.com-l-163.com/20180918/2517_8718bb36/index.m3u8",
+                "第13集": "https://bilibili.com-l-163.com/20180918/2518_18a8f8d3/index.m3u8",
+                "第14集": "https://bilibili.com-l-163.com/20180918/2519_332843e9/index.m3u8",
+                "第15集": "https://bilibili.com-l-163.com/20180918/2520_a790e714/index.m3u8",
+                "第16集": "https://bilibili.com-l-163.com/20180918/2521_c2a66e54/index.m3u8",
+                "第17集": "https://bilibili.com-l-163.com/20180918/2522_d6e7c936/index.m3u8",
+                "第18集": "https://bilibili.com-l-163.com/20180918/2523_1c6459cc/index.m3u8",
+                "第19集": "https://bilibili.com-l-163.com/20180918/2524_beea1c03/index.m3u8",
+                "第20集": "https://bilibili.com-l-163.com/20180918/2525_6b782003/index.m3u8",
+                "第21集": "https://bilibili.com-l-163.com/20180918/2526_828625ce/index.m3u8",
+                "第22集": "https://bilibili.com-l-163.com/20180918/2527_bc5afca8/index.m3u8",
+                "第23集": "https://bilibili.com-l-163.com/20180918/2528_eb140d82/index.m3u8",
+                "第24集": "https://bilibili.com-l-163.com/20180918/2529_534f4b83/index.m3u8",
+                "第25集": "https://bilibili.com-l-163.com/20180918/2530_386b3026/index.m3u8",
+                "第26集": "https://bilibili.com-l-163.com/20180918/2531_cd3077de/index.m3u8"
+            }
+        }
+    ]
+}

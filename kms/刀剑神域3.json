@@ -1,0 +1,35 @@
+{
+    "RECORDS": [
+        {
+            "name": "刀剑神域3",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-10/15388957610.jpg",
+            "urls": {
+                "第01集": "https://tudou.com-v-tudou.com/20181007/17411_380b1c67/index.m3u8",
+                "第02集": "https://tudou.com-v-tudou.com/20181013/17785_cb1277d1/index.m3u8",
+                "第03集": "https://tudou.com-v-tudou.com/20181020/18086_9bfc7803/index.m3u8",
+                "第04集": "https://tudou.com-v-tudou.com/20181027/18396_a84cbcde/index.m3u8",
+                "第05集": "https://tudou.com-v-tudou.com/20181103/18743_f287dd58/index.m3u8",
+                "第06集": "https://youku.cdn-2-okzy.com/20181110/19080_02056970/index.m3u8",
+                "第07集": "https://youku.cdn-2-okzy.com/20181117/19378_c8417fa6/index.m3u8",
+                "第08集": "https://pptv.com-h-pptv.com/20181124/9621_a3a16574/index.m3u8",
+                "第09集": "https://pptv.com-h-pptv.com/20181201/10214_daa83c1b/index.m3u8",
+                "第10集": "https://pptv.com-h-pptv.com/20181208/10897_e02fe121/index.m3u8",
+                "第11集": "https://pptv.com-h-pptv.com/20181215/11315_704027af/index.m3u8",
+                "第12集": "https://pptv.com-h-pptv.com/20181222/11684_b6254ed7/index.m3u8",
+                "第13集": "https://pptv.com-h-pptv.com/20190105/12352_4772b5cc/index.m3u8",
+                "第14集": "https://pptv.com-h-pptv.com/20190112/12673_dee5d499/index.m3u8",
+                "第15集": "https://pptv.com-h-pptv.com/20190119/13175_fd9175f1/index.m3u8",
+                "第16集": "https://pptv.com-h-pptv.com/20190126/13642_fc04f6a0/index.m3u8",
+                "第17集": "https://pptv.com-h-pptv.com/20190202/14105_6ab82433/index.m3u8",
+                "第18集": "https://pptv.com-h-pptv.com/20190220/14976_92197e27/index.m3u8",
+                "第18.5集": "https://pptv.com-h-pptv.com/20190216/14786_ce1351dc/index.m3u8",
+                "第19集": "https://pptv.com-h-pptv.com/20190223/15169_4989344c/index.m3u8",
+                "第20集": "https://qq.com-l-qq.com/20190303/8871_2f3af55c/index.m3u8",
+                "第21集": "https://pptv.com-h-pptv.com/20190310/15931_7b7c1ed6/index.m3u8",
+                "第22集": "https://youku.cdn-2-okzy.com/20190317/21997_c8850fae/index.m3u8",
+                "第23集": "https://youku.cdn-2-okzy.com/20190324/22230_8f774573/index.m3u8",
+                "第24集": "https://tudou.com-l-tudou.com/20190331/16566_c55b13ca/index.m3u8"
+            }
+        }
+    ]
+}

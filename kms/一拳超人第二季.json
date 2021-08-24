@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "一拳超人第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-04/15542288450.jpg",
+            "urls": {
+                "特别篇": "https://tudou.com-l-tudou.com/20190403/16839_1a73751a/index.m3u8",
+                "第01集": "https://tudou.com-l-tudou.com/20190410/17223_afcd3d72/index.m3u8",
+                "第02集": "https://tudou.com-l-tudou.com/20190417/17557_cd5525a5/index.m3u8",
+                "第03集": "https://tudou.com-l-tudou.com/20190424/17840_966daf76/index.m3u8",
+                "第04集": "https://tudou.com-l-tudou.com/20190501/18139_12a571e8/index.m3u8",
+                "第05集": "https://tudou.com-l-tudou.com/20190508/18358_a3a2f561/index.m3u8",
+                "第06集": "https://tudou.com-l-tudou.com/20190515/18619_974400ef/index.m3u8",
+                "第07集": "https://tudou.com-l-tudou.com/20190522/18859_5b35ef1d/index.m3u8",
+                "第08集": "https://tudou.com-l-tudou.com/20190529/19086_cb478b07/index.m3u8",
+                "第09集": "https://tudou.com-l-tudou.com/20190612/19562_af042e37/index.m3u8",
+                "第10集": "https://tudou.com-l-tudou.com/20190619/19787_50000cea/index.m3u8",
+                "第11集": "https://tudou.com-l-tudou.com/20190626/20041_b9e430dc/index.m3u8",
+                "第12集": "https://tudou.com-l-tudou.com/20190703/20306_b07f8582/index.m3u8"
+            }
+        }
+    ]
+}

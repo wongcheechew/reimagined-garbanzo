@@ -1,0 +1,17 @@
+{
+    "RECORDS": [
+        {
+            "name": "蓝色星球2",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-01/201801091515510288.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180812/8049_747a097f/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180812/8050_c41ddcce/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180812/8051_21a018ae/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180812/8052_f2647003/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180812/8053_6062c9ab/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180812/8054_a21a5630/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180812/8055_5ac5c164/index.m3u8"
+            }
+        }
+    ]
+}

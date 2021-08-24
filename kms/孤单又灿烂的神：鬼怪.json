@@ -1,0 +1,27 @@
+{
+    "RECORDS": [
+        {
+            "name": "孤单又灿烂的神：鬼怪",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/201805291527524366.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180528/7306_f29fd51a/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180528/7307_ccf826d7/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180528/7308_8d18231e/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180528/7309_888545b7/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180528/7310_eaa3661d/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180528/7311_f5005782/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180528/7312_cdc70b64/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180528/7313_0b185266/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180528/7314_61e78d4d/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180528/7315_cfc44178/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180528/7316_4b13a2ba/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180528/7317_b196cd81/index.m3u8",
+                "第13集": "https://youku.com-youku.net/20180528/7318_c741aeb8/index.m3u8",
+                "第14集": "https://youku.com-youku.net/20180528/7319_d564653e/index.m3u8",
+                "第15集": "https://youku.com-youku.net/20180528/7320_706c66b4/index.m3u8",
+                "第16集": "https://youku.com-youku.net/20180528/7321_a6c6861e/index.m3u8",
+                "特辑": "https://youku.com-youku.net/20180528/7322_1661cde6/index.m3u8"
+            }
+        }
+    ]
+}

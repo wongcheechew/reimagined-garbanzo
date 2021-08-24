@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "name": "一拳超人第二季OVA",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-02/1580549294.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200201/5726_7fae66e4/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200201/5727_e6f12073/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200308/7197_36cc914f/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20200201/5728_7427a160/index.m3u8",
+                "第05集": "https://iqiyi.cdn9-okzy.com/20200624/11683_a789eb57/index.m3u8",
+                "第06集": "https://iqiyi.cdn9-okzy.com/20200624/11684_099d3f3e/index.m3u8"
+            }
+        }
+    ]
+}

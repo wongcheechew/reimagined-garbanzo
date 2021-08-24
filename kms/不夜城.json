@@ -1,0 +1,30 @@
+{
+    "RECORDS": [
+        {
+            "name": "不夜城",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-12/15439879855.jpg",
+            "urls": {
+                "第01集": "https://youku.com-l-youku.com/20181203/17_99e978f1/index.m3u8",
+                "第02集": "https://youku.com-l-youku.com/20181203/18_77ab1aec/index.m3u8",
+                "第03集": "https://youku.com-l-youku.com/20181203/19_4d22b00c/index.m3u8",
+                "第04集": "https://youku.com-l-youku.com/20181203/20_eca1b065/index.m3u8",
+                "第05集": "https://youku.com-l-youku.com/20181203/21_861782fc/index.m3u8",
+                "第06集": "https://youku.com-l-youku.com/20181203/22_b40954b8/index.m3u8",
+                "第07集": "https://youku.com-l-youku.com/20181203/23_2507adf5/index.m3u8",
+                "第08集": "https://youku.com-l-youku.com/20181203/24_f7b2a19b/index.m3u8",
+                "第09集": "https://youku.com-l-youku.com/20181203/25_5086bb7d/index.m3u8",
+                "第10集": "https://youku.com-l-youku.com/20181203/26_82aaacdf/index.m3u8",
+                "第11集": "https://youku.com-l-youku.com/20181203/27_437da8c4/index.m3u8",
+                "第12集": "https://youku.com-l-youku.com/20181203/28_3a9f5b0b/index.m3u8",
+                "第13集": "https://youku.com-l-youku.com/20181203/29_342783c6/index.m3u8",
+                "第14集": "https://youku.com-l-youku.com/20181203/30_a0e5a634/index.m3u8",
+                "第15集": "https://youku.com-l-youku.com/20181203/31_51e00f51/index.m3u8",
+                "第16集": "https://youku.com-l-youku.com/20181203/32_bc449072/index.m3u8",
+                "第17集": "https://youku.com-l-youku.com/20181203/33_8e4f8658/index.m3u8",
+                "第18集": "https://youku.com-l-youku.com/20181203/34_fcf2c11f/index.m3u8",
+                "第19集": "https://youku.com-l-youku.com/20181203/35_49b9c2b7/index.m3u8",
+                "第20集": "https://youku.com-l-youku.com/20181203/36_af348f80/index.m3u8"
+            }
+        }
+    ]
+}

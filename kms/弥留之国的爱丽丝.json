@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "弥留之国的爱丽丝",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-12/1607621644.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn31-okzy.com/20201211/1714_10623ba3/index.m3u8",
+                "第02集": "https://youku.cdn31-okzy.com/20201211/1717_f6b3491f/index.m3u8",
+                "第03集": "https://youku.cdn31-okzy.com/20201211/1711_7a1a2892/index.m3u8",
+                "第04集": "https://youku.cdn31-okzy.com/20201211/1713_34e63946/index.m3u8",
+                "第05集": "https://youku.cdn31-okzy.com/20201211/1716_3985e8a9/index.m3u8",
+                "第06集": "https://youku.cdn31-okzy.com/20201211/1710_3272612a/index.m3u8",
+                "第07集": "https://youku.cdn31-okzy.com/20201211/1715_ecb61ade/index.m3u8",
+                "第08集": "https://youku.cdn31-okzy.com/20201211/1712_8cca1623/index.m3u8"
+            }
+        }
+    ]
+}

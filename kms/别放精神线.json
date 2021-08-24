@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "别放精神线",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1596417941.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200802/19206_e5cc7caa/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200802/19207_75630bef/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200814/19647_38040314/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200814/19648_9518bcf5/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200821/19863_181e183a/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200821/19864_2c1b3d35/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200829/20048_78320c03/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200829/20050_8eb1d10e/index.m3u8"
+            }
+        }
+    ]
+}

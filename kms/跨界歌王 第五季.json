@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "跨界歌王 第五季",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1593873135.jpg",
+            "urls": {
+                "20200627": "https://youku.cdn3-okzy.com/20200704/10513_8c72944b/index.m3u8",
+                "20200704": "https://youku.cdn3-okzy.com/20200704/10514_0eeadfbd/index.m3u8",
+                "20200711": "https://youku.cdn3-okzy.com/20200711/10829_fb4eeb29/index.m3u8",
+                "20200718": "https://youku.cdn3-okzy.com/20200719/11089_4be670fb/index.m3u8",
+                "20200725": "https://youku.cdn3-okzy.com/20200726/11384_a59aa299/index.m3u8",
+                "20200801": "https://youku.cdn3-okzy.com/20200801/11608_64b4bdf6/index.m3u8",
+                "20200808": "https://youku.cdn3-okzy.com/20200808/11848_605c17e5/index.m3u8",
+                "20200815": "https://youku.cdn3-okzy.com/20200815/12039_6523a59d/index.m3u8"
+            }
+        }
+    ]
+}

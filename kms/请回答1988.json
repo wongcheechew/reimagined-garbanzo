@@ -1,0 +1,30 @@
+{
+    "RECORDS": [
+        {
+            "name": "请回答1988",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-10/15396669121.jpg",
+            "urls": {
+                "第01集": "https://bilibili.com-l-163.com/20180920/3325_771fcbe1/index.m3u8",
+                "第02集": "https://bilibili.com-l-163.com/20180920/3326_5641bc2a/index.m3u8",
+                "第03集": "https://bilibili.com-l-163.com/20180920/3327_14422891/index.m3u8",
+                "第04集": "https://bilibili.com-l-163.com/20180920/3328_8784b247/index.m3u8",
+                "第05集": "https://bilibili.com-l-163.com/20180920/3329_93795cde/index.m3u8",
+                "第06集": "https://bilibili.com-l-163.com/20180920/3330_e98039c2/index.m3u8",
+                "第07集": "https://bilibili.com-l-163.com/20180920/3331_2f210cef/index.m3u8",
+                "第08集": "https://bilibili.com-l-163.com/20180920/3332_da31e161/index.m3u8",
+                "第09集": "https://bilibili.com-l-163.com/20180920/3333_1814d13e/index.m3u8",
+                "第10集": "https://bilibili.com-l-163.com/20180920/3334_49536786/index.m3u8",
+                "第11集": "https://bilibili.com-l-163.com/20180920/3335_0b8ec120/index.m3u8",
+                "第12集": "https://bilibili.com-l-163.com/20180920/3336_57ba71a0/index.m3u8",
+                "第13集": "https://bilibili.com-l-163.com/20180920/3337_f82f9d17/index.m3u8",
+                "第14集": "https://bilibili.com-l-163.com/20180920/3338_14e8aff2/index.m3u8",
+                "第15集": "https://bilibili.com-l-163.com/20180920/3339_65243470/index.m3u8",
+                "第16集": "https://bilibili.com-l-163.com/20180920/3340_6ac47b5b/index.m3u8",
+                "第17集": "https://bilibili.com-l-163.com/20180920/3341_4a237ac0/index.m3u8",
+                "第18集": "https://bilibili.com-l-163.com/20180920/3342_4bbec39e/index.m3u8",
+                "第19集": "https://bilibili.com-l-163.com/20180920/3343_2175a09f/index.m3u8",
+                "第20集": "https://bilibili.com-l-163.com/20180920/3344_f51c8898/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "八佰",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/202008201597896356.jpg",
+            "url": "https://youku.cdn7-okzy.com/20201031/21284_2fcd3796/index.m3u8",
+            "urls": {
+                "HD高清": "https://youku.cdn7-okzy.com/20201031/21284_2fcd3796/index.m3u8"
+            }
+        }
+    ]
+}

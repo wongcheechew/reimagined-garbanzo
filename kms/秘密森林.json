@@ -1,0 +1,26 @@
+{
+    "RECORDS": [
+        {
+            "name": "秘密森林",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-05/150459491816.jpg",
+            "urls": {
+                "第01集": "https://youku.com-t-youku.com/20190317/9084_1c0d8219/index.m3u8",
+                "第02集": "https://youku.com-t-youku.com/20190317/9085_ece15454/index.m3u8",
+                "第03集": "https://youku.com-t-youku.com/20190317/9086_178e439a/index.m3u8",
+                "第04集": "https://youku.com-t-youku.com/20190317/9087_f00077a1/index.m3u8",
+                "第05集": "https://youku.com-t-youku.com/20190317/9088_0a4267bb/index.m3u8",
+                "第06集": "https://youku.com-t-youku.com/20190317/9089_48d74109/index.m3u8",
+                "第07集": "https://youku.com-t-youku.com/20190317/9090_bcab20bb/index.m3u8",
+                "第08集": "https://youku.com-t-youku.com/20190317/9091_ba94906a/index.m3u8",
+                "第09集": "https://youku.com-t-youku.com/20190317/9092_22f4b55d/index.m3u8",
+                "第10集": "https://youku.com-t-youku.com/20190317/9093_51e22d79/index.m3u8",
+                "第11集": "https://youku.com-t-youku.com/20190317/9094_24ed912a/index.m3u8",
+                "第12集": "https://youku.com-t-youku.com/20190317/9095_d6e9ad31/index.m3u8",
+                "第13集": "https://youku.com-t-youku.com/20190317/9096_298d6fc7/index.m3u8",
+                "第14集": "https://youku.com-t-youku.com/20190317/9097_fa94026e/index.m3u8",
+                "第15集": "https://youku.com-t-youku.com/20190317/9098_96b6ed91/index.m3u8",
+                "第16集": "https://youku.com-t-youku.com/20190317/9099_5673f93b/index.m3u8"
+            }
+        }
+    ]
+}

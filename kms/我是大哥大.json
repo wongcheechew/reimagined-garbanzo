@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "我是大哥大",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-10/15396502234.jpg",
+            "urls": {
+                "第01集": "https://pptv.com-h-pptv.com/20181015/7918_6c74e6ff/index.m3u8",
+                "第02集": "https://pptv.com-h-pptv.com/20181022/8214_af92ba50/index.m3u8",
+                "第03集": "https://pptv.com-h-pptv.com/20181029/8451_3998a917/index.m3u8",
+                "第04集": "https://pptv.com-h-pptv.com/20181105/8770_f36fa23d/index.m3u8",
+                "第05集": "https://pptv.com-h-pptv.com/20181112/9035_f5fd6313/index.m3u8",
+                "第06集": "https://pptv.com-h-pptv.com/20181119/9367_8eb2f042/index.m3u8",
+                "第07集": "https://pptv.com-h-pptv.com/20181126/9836_0c7102ae/index.m3u8",
+                "第08集": "https://pptv.com-h-pptv.com/20181203/10318_8d02766b/index.m3u8",
+                "第09集": "https://qq.com-l-qq.com/20181209/7555_4f9e36fa/index.m3u8",
+                "第10集": "https://qq.com-l-qq.com/20181216/7664_5a9dd467/index.m3u8"
+            }
+        }
+    ]
+}

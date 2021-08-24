@@ -1,0 +1,34 @@
+{
+    "RECORDS": [
+        {
+            "name": "爱情公寓第四部",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/201805191526659877.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180517/2527_6cea919b/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180517/2526_a86c7d0c/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180518/2864_952b9ae2/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180518/2863_6e2b5f3f/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180518/2865_9a848007/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180518/2868_996933b3/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180518/2869_e2f62657/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180518/2866_d3d95628/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180518/2867_960125ad/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180518/2872_e37e83dd/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180518/2870_3f321d37/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180518/2876_38ae01ac/index.m3u8",
+                "第13集": "https://youku.com-youku.net/20180518/2871_dad09d20/index.m3u8",
+                "第14集": "https://youku.com-youku.net/20180518/2877_55238160/index.m3u8",
+                "第15集": "https://youku.com-youku.net/20180518/2873_54a9f27b/index.m3u8",
+                "第16集": "https://youku.com-youku.net/20180518/2874_ee688f45/index.m3u8",
+                "第17集": "https://youku.com-youku.net/20180518/2875_77f046e5/index.m3u8",
+                "第18集": "https://youku.com-youku.net/20180518/2884_458521e1/index.m3u8",
+                "第19集": "https://youku.com-youku.net/20180518/2878_ac6d8528/index.m3u8",
+                "第20集": "https://youku.com-youku.net/20180518/2911_7088a423/index.m3u8",
+                "第21集": "https://youku.com-youku.net/20180518/2879_2007d594/index.m3u8",
+                "第22集": "https://youku.com-youku.net/20180518/2880_18240d28/index.m3u8",
+                "第23集": "https://youku.com-youku.net/20180518/2881_83cb9ffb/index.m3u8",
+                "第24集": "https://youku.com-youku.net/20180518/2882_ed532bd7/index.m3u8"
+            }
+        }
+    ]
+}

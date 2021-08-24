@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "一路向西",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-10-19/15084008206.jpg",
+            "urls": {
+                "粤语": "https://bilibili.com-l-163.com/20180930/8033_aa2c2dff/index.m3u8",
+                "国语": "https://bilibili.com-l-163.com/20180930/8032_a30a3d99/index.m3u8"
+            }
+        }
+    ]
+}

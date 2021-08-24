@@ -1,0 +1,53 @@
+{
+    "RECORDS": [
+        {
+            "name": "三十而已",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1594989034.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200717/12703_39a429cf/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200717/12706_cb51bd81/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200717/12707_e6e9d478/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20200717/12708_11dc4a96/index.m3u8",
+                "第05集": "https://iqiyi.cdn9-okzy.com/20200718/12760_3c93305d/index.m3u8",
+                "第06集": "https://iqiyi.cdn9-okzy.com/20200719/12779_39c70fd5/index.m3u8",
+                "第07集": "https://iqiyi.cdn9-okzy.com/20200719/12780_d66ca696/index.m3u8",
+                "第08集": "https://iqiyi.cdn9-okzy.com/20200720/12812_0062e2a7/index.m3u8",
+                "第09集": "https://iqiyi.cdn9-okzy.com/20200720/12811_04ffc6b4/index.m3u8",
+                "第10集": "https://iqiyi.cdn9-okzy.com/20200721/12849_4e5ddf56/index.m3u8",
+                "第11集": "https://iqiyi.cdn9-okzy.com/20200721/12850_2211a89c/index.m3u8",
+                "第12集": "https://iqiyi.cdn9-okzy.com/20200722/12892_642f78ca/index.m3u8",
+                "第13集": "https://iqiyi.cdn9-okzy.com/20200722/12893_0f9a29f6/index.m3u8",
+                "第14集": "https://iqiyi.cdn9-okzy.com/20200723/12964_f028054f/index.m3u8",
+                "第15集": "https://iqiyi.cdn9-okzy.com/20200723/12965_81311025/index.m3u8",
+                "第16集": "https://iqiyi.cdn9-okzy.com/20200724/13005_13495fe5/index.m3u8",
+                "第17集": "https://iqiyi.cdn9-okzy.com/20200724/13013_ace57055/index.m3u8",
+                "第18集": "https://iqiyi.cdn9-okzy.com/20200725/13056_7b42e339/index.m3u8",
+                "第19集": "https://iqiyi.cdn9-okzy.com/20200726/13089_8ebcf7c3/index.m3u8",
+                "第20集": "https://iqiyi.cdn9-okzy.com/20200726/13090_5a3680f5/index.m3u8",
+                "第21集": "https://iqiyi.cdn9-okzy.com/20200727/13166_76181710/index.m3u8",
+                "第22集": "https://iqiyi.cdn9-okzy.com/20200727/13167_d6e8efd0/index.m3u8",
+                "第23集": "https://iqiyi.cdn9-okzy.com/20200728/13195_85b231d4/index.m3u8",
+                "第24集": "https://iqiyi.cdn9-okzy.com/20200728/13196_cdc62ffd/index.m3u8",
+                "第25集": "https://iqiyi.cdn9-okzy.com/20200729/13249_eb2c85ce/index.m3u8",
+                "第26集": "https://iqiyi.cdn9-okzy.com/20200729/13250_0b888120/index.m3u8",
+                "第27集": "https://iqiyi.cdn9-okzy.com/20200730/13287_27a3652c/index.m3u8",
+                "第28集": "https://iqiyi.cdn9-okzy.com/20200730/13288_da122baa/index.m3u8",
+                "第29集": "https://iqiyi.cdn9-okzy.com/20200731/13361_3ca5bbd0/index.m3u8",
+                "第30集": "https://iqiyi.cdn9-okzy.com/20200731/13362_d570250a/index.m3u8",
+                "第31集": "https://iqiyi.cdn9-okzy.com/20200801/13411_c0126761/index.m3u8",
+                "第32集": "https://iqiyi.cdn9-okzy.com/20200802/13439_b55556ff/index.m3u8",
+                "第33集": "https://iqiyi.cdn9-okzy.com/20200803/13443_b62db954/index.m3u8",
+                "第34集": "https://iqiyi.cdn27-okzy.com/20200802/6678_427a7176/index.m3u8",
+                "第35集": "https://iqiyi.cdn27-okzy.com/20200802/6679_1f15c4be/index.m3u8",
+                "第36集": "https://iqiyi.cdn27-okzy.com/20200802/6680_d3e38acd/index.m3u8",
+                "第37集": "https://iqiyi.cdn27-okzy.com/20200802/6681_31a2ca83/index.m3u8",
+                "第38集": "https://iqiyi.cdn27-okzy.com/20200802/6687_aded493d/index.m3u8",
+                "第39集": "https://iqiyi.cdn27-okzy.com/20200802/6682_538c875e/index.m3u8",
+                "第40集": "https://iqiyi.cdn27-okzy.com/20200802/6683_1d5cad27/index.m3u8",
+                "第41集": "https://iqiyi.cdn27-okzy.com/20200802/6684_aeb5677a/index.m3u8",
+                "第42集": "https://iqiyi.cdn27-okzy.com/20200802/6685_a9a80709/index.m3u8",
+                "第43集": "https://iqiyi.cdn27-okzy.com/20200802/6686_1e6ee0d8/index.m3u8"
+            }
+        }
+    ]
+}

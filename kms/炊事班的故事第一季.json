@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "炊事班的故事第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/152707577011.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn2-youku.com/20180523/11652_6fd8a65c/index.m3u8",
+                "第02集": "https://youku.cdn2-youku.com/20180523/11653_16dfb279/index.m3u8",
+                "第03集": "https://youku.cdn2-youku.com/20180523/11654_fb8db0f2/index.m3u8",
+                "第04集": "https://youku.cdn2-youku.com/20180523/11655_ec637808/index.m3u8",
+                "第05集": "https://youku.cdn2-youku.com/20180523/11656_a87028ef/index.m3u8",
+                "第06集": "https://youku.cdn2-youku.com/20180523/11657_fe3a4e34/index.m3u8",
+                "第07集": "https://youku.cdn2-youku.com/20180523/11658_29990c3b/index.m3u8",
+                "第08集": "https://youku.cdn2-youku.com/20180523/11659_c05f47ab/index.m3u8",
+                "第09集": "https://youku.cdn2-youku.com/20180523/11660_636155d3/index.m3u8",
+                "第10集": "https://youku.cdn2-youku.com/20180523/11661_0f84f62f/index.m3u8",
+                "第11集": "https://youku.cdn2-youku.com/20180523/11662_143de3c4/index.m3u8",
+                "第12集": "https://youku.cdn2-youku.com/20180523/11663_34c2602a/index.m3u8",
+                "第13集": "https://youku.cdn2-youku.com/20180523/11664_3ffdc465/index.m3u8"
+            }
+        }
+    ]
+}

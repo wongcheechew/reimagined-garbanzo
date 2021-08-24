@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "十日游戏",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-06/1591101373.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn4-okzy.com/20200602/7696_e8e2ff04/index.m3u8",
+                "第02集": "https://youku.cdn4-okzy.com/20200602/7697_e0a0b6af/index.m3u8",
+                "第03集": "https://youku.cdn4-okzy.com/20200603/7712_1691e215/index.m3u8",
+                "第04集": "https://youku.cdn4-okzy.com/20200603/7713_68363c0f/index.m3u8",
+                "第05集": "https://youku.cdn4-okzy.com/20200604/7742_78890271/index.m3u8",
+                "第06集": "https://youku.cdn4-okzy.com/20200604/7743_65e8dfea/index.m3u8",
+                "第07集": "https://youku.cdn4-okzy.com/20200606/7784_f3220700/index.m3u8",
+                "第08集": "https://youku.cdn4-okzy.com/20200605/7762_f7eb4868/index.m3u8",
+                "第09集": "https://youku.cdn4-okzy.com/20200605/7763_cdac5aa8/index.m3u8",
+                "第10集": "https://youku.cdn4-okzy.com/20200605/7764_d0fb40ab/index.m3u8",
+                "第11集": "https://youku.cdn4-okzy.com/20200605/7765_44991f6b/index.m3u8",
+                "第12集": "https://youku.cdn4-okzy.com/20200605/7766_2a19e23e/index.m3u8"
+            }
+        }
+    ]
+}

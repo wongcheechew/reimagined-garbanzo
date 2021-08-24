@@ -1,0 +1,26 @@
+{
+    "RECORDS": [
+        {
+            "name": "我们，爱过吗",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1594234104.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200708/18485_8cec028a/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200709/18518_5f5f0dcd/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200716/18729_8275d470/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200716/18755_abec27ed/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200724/18907_add812ea/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200723/18901_b6d92688/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200730/19116_f9c8aad7/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200730/19117_799c61c4/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200805/19304_c42e224c/index.m3u8",
+                "第10集": "https://youku.cdn11-okzy.com/20200806/19336_022c59ea/index.m3u8",
+                "第11集": "https://youku.cdn11-okzy.com/20200812/19535_6f69063f/index.m3u8",
+                "第12集": "https://youku.cdn11-okzy.com/20200813/19601_a912db34/index.m3u8",
+                "第13集": "https://youku.cdn11-okzy.com/20200820/19785_b5f28100/index.m3u8",
+                "第14集": "https://youku.cdn11-okzy.com/20200820/19816_bdf4e1a2/index.m3u8",
+                "第15集": "https://youku.cdn11-okzy.com/20200827/20006_65508067/index.m3u8",
+                "第16集": "https://youku.cdn11-okzy.com/20200902/20163_42b1893c/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "RECORDS": [
+        {
+            "name": "末日巡逻队第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-06/1593159783.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200626/18065_dfd2791c/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200628/18136_c8a6116d/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200628/18137_e7cedbc4/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200702/18302_b7c8e780/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200709/18516_3d84cc7d/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200716/18757_313b0272/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200724/18904_3486984c/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200730/19103_e874146c/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200806/19318_4a747ad9/index.m3u8"
+            }
+        }
+    ]
+}

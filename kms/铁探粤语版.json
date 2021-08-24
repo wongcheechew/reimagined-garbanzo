@@ -1,0 +1,40 @@
+{
+    "RECORDS": [
+        {
+            "name": "铁探粤语版",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-04/15541238450.jpg",
+            "urls": {
+                "第01集": "https://qq.com-l-qq.com/20190401/9404_024d2c93/index.m3u8",
+                "第02集": "https://qq.com-l-qq.com/20190401/9405_ad2b5f75/index.m3u8",
+                "第03集": "https://qq.com-l-qq.com/20190401/9406_4ee928f9/index.m3u8",
+                "第04集": "https://qq.com-l-qq.com/20190401/9407_337cad00/index.m3u8",
+                "第05集": "https://qq.com-l-qq.com/20190401/9408_c0b28939/index.m3u8",
+                "第06集": "https://qq.com-l-qq.com/20190401/9409_af673659/index.m3u8",
+                "第07集": "https://qq.com-l-qq.com/20190401/9410_b916cd88/index.m3u8",
+                "第08集": "https://qq.com-l-qq.com/20190401/9411_5d360002/index.m3u8",
+                "第09集": "https://qq.com-l-qq.com/20190401/9413_5a75c132/index.m3u8",
+                "第10集": "https://qq.com-l-qq.com/20190401/9412_6650a414/index.m3u8",
+                "第11集": "https://baidu.com-l-baidu.com/20190408/14220_3c41102c/index.m3u8",
+                "第12集": "https://baidu.com-l-baidu.com/20190408/14221_a0d859f8/index.m3u8",
+                "第13集": "https://baidu.com-l-baidu.com/20190408/14222_4c6a6bce/index.m3u8",
+                "第14集": "https://baidu.com-l-baidu.com/20190408/14223_f728377c/index.m3u8",
+                "第15集": "https://baidu.com-l-baidu.com/20190408/14224_3ad8197f/index.m3u8",
+                "第16集": "https://baidu.com-l-baidu.com/20190415/14478_f0a13c42/index.m3u8",
+                "第17集": "https://baidu.com-l-baidu.com/20190415/14479_5f3226df/index.m3u8",
+                "第18集": "https://baidu.com-l-baidu.com/20190415/14480_f87fe6ba/index.m3u8",
+                "第19集": "https://baidu.com-l-baidu.com/20190415/14481_00362cd2/index.m3u8",
+                "第20集": "https://baidu.com-l-baidu.com/20190415/14482_55b06f87/index.m3u8",
+                "第21集": "https://letv.com-t-letv.com/20190422/203_9c5535f7/index.m3u8",
+                "第22集": "https://letv.com-t-letv.com/20190422/204_e422ed15/index.m3u8",
+                "第23集": "https://letv.com-t-letv.com/20190422/205_e3f62e9d/index.m3u8",
+                "第24集": "https://letv.com-t-letv.com/20190422/206_7eccf09b/index.m3u8",
+                "第25集": "https://letv.com-t-letv.com/20190422/207_7b1f9ddf/index.m3u8",
+                "第26集": "https://letv.com-t-letv.com/20190429/454_2853a537/index.m3u8",
+                "第27集": "https://letv.com-t-letv.com/20190429/455_244c10ae/index.m3u8",
+                "第28集": "https://letv.com-t-letv.com/20190429/456_bc7ecc6a/index.m3u8",
+                "第29集": "https://letv.com-t-letv.com/20190429/457_ffa84c59/index.m3u8",
+                "第30集": "https://letv.com-t-letv.com/20190429/458_23f1cd46/index.m3u8"
+            }
+        }
+    ]
+}

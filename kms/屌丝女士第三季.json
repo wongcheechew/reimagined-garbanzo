@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "屌丝女士第三季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15344007501.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180815/10048_e5aeef0a/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180815/10049_80cde80a/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180815/10050_1cec5741/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180815/10051_7634598a/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180815/10052_0c232dc8/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180815/10053_e4eaa655/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180815/10054_39a6c211/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180815/10055_881b9ef4/index.m3u8"
+            }
+        }
+    ]
+}

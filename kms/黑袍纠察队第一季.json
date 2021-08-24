@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "黑袍纠察队第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-07/15641382130.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.com-t-iqiyi.com/20190726/5262_84829526/index.m3u8",
+                "第02集": "https://iqiyi.com-t-iqiyi.com/20190726/5263_70ac0715/index.m3u8",
+                "第03集": "https://iqiyi.com-t-iqiyi.com/20190726/5264_27c889fd/index.m3u8",
+                "第04集": "https://iqiyi.com-t-iqiyi.com/20190726/5265_0470ce35/index.m3u8",
+                "第05集": "https://iqiyi.com-t-iqiyi.com/20190726/5266_2abc3690/index.m3u8",
+                "第06集": "https://iqiyi.com-t-iqiyi.com/20190726/5267_3a391907/index.m3u8",
+                "第07集": "https://iqiyi.com-t-iqiyi.com/20190726/5268_34b5d897/index.m3u8",
+                "第08集": "https://iqiyi.com-t-iqiyi.com/20190726/5269_c15d56f4/index.m3u8"
+            }
+        }
+    ]
+}

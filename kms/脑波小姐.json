@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "脑波小姐",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-09/1601193157.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200927/20970_fe238172/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200927/20972_cd2a7531/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200927/20971_7a1fa6e3/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20201004/21206_1898687b/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20201011/21442_121d4999/index.m3u8",
+                "第06集": "https://youku.cdn31-okzy.com/20201019/53_4c35ae20/index.m3u8",
+                "第08集": "https://youku.cdn31-okzy.com/20201101/441_113b7b9d/index.m3u8",
+                "第09集": "https://youku.cdn31-okzy.com/20201108/619_dcdbbd54/index.m3u8",
+                "第10集": "https://youku.cdn31-okzy.com/20201122/1108_a2f2f755/index.m3u8",
+                "第11集": "https://youku.cdn31-okzy.com/20201122/1110_6f9dd848/index.m3u8"
+            }
+        }
+    ]
+}

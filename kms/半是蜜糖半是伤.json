@@ -1,0 +1,34 @@
+{
+    "RECORDS": [
+        {
+            "name": "半是蜜糖半是伤",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-09/1601208291.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn4-okzy.com/20200927/10363_46e833de/index.m3u8",
+                "第02集": "https://youku.cdn4-okzy.com/20200927/10364_a21bc369/index.m3u8",
+                "第03集": "https://youku.cdn4-okzy.com/20200927/10365_c77ba544/index.m3u8",
+                "第04集": "https://youku.cdn4-okzy.com/20200927/10366_43e8fd56/index.m3u8",
+                "第05集": "https://youku.cdn4-okzy.com/20200927/10367_307dff04/index.m3u8",
+                "第06集": "https://youku.cdn4-okzy.com/20200927/10368_ca442749/index.m3u8",
+                "第07集": "https://youku.cdn4-okzy.com/20200927/10369_6ac28bde/index.m3u8",
+                "第08集": "https://youku.cdn4-okzy.com/20200927/10370_ba38bd0f/index.m3u8",
+                "第09集": "https://youku.cdn4-okzy.com/20200928/10381_fbe7e497/index.m3u8",
+                "第10集": "https://youku.cdn4-okzy.com/20200928/10382_63bfa4c1/index.m3u8",
+                "第11集": "https://youku.cdn4-okzy.com/20200929/10425_93a345b9/index.m3u8",
+                "第12集": "https://youku.cdn4-okzy.com/20200929/10426_56a1c71d/index.m3u8",
+                "第13集": "https://youku.cdn4-okzy.com/20201004/10550_3d904f62/index.m3u8",
+                "第14集": "https://youku.cdn4-okzy.com/20201004/10551_e835c345/index.m3u8",
+                "第15集": "https://youku.cdn4-okzy.com/20201005/10561_9a6db5f7/index.m3u8",
+                "第16集": "https://youku.cdn4-okzy.com/20201005/10562_026970b7/index.m3u8",
+                "第17集": "https://youku.cdn4-okzy.com/20201006/10589_c3ae89bf/index.m3u8",
+                "第18集": "https://youku.cdn4-okzy.com/20201006/10590_aae4b33c/index.m3u8",
+                "第19集": "https://youku.cdn4-okzy.com/20201011/10708_36ce0ad2/index.m3u8",
+                "第20集": "https://youku.cdn4-okzy.com/20201011/10709_a2c29e27/index.m3u8",
+                "第21集": "https://youku.cdn4-okzy.com/20201012/10724_9c553bb9/index.m3u8",
+                "第22集": "https://youku.cdn4-okzy.com/20201012/10725_df33240e/index.m3u8",
+                "第23集": "https://youku.cdn4-okzy.com/20201013/10761_8e6a8057/index.m3u8",
+                "第24集": "https://youku.cdn4-okzy.com/20201013/10762_2d0f4f40/index.m3u8"
+            }
+        }
+    ]
+}

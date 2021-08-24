@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "name": "空中浩劫第二季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/15268041082.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn2-youku.com/20180520/11411_1ee913d2/index.m3u8",
+                "第02集": "https://youku.cdn2-youku.com/20180520/11412_35351b97/index.m3u8",
+                "第03集": "https://youku.cdn2-youku.com/20180520/11413_cd501156/index.m3u8",
+                "第04集": "https://youku.cdn2-youku.com/20180520/11414_8caf15d9/index.m3u8",
+                "第05集": "https://youku.cdn2-youku.com/20180520/11415_4d857eb9/index.m3u8",
+                "第06集": "https://youku.cdn2-youku.com/20180520/11416_24e2317c/index.m3u8"
+            }
+        }
+    ]
+}

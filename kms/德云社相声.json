@@ -1,0 +1,19 @@
+{
+    "RECORDS": [
+        {
+            "name": "德云社相声",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-10-31/201710311509422621.jpg",
+            "urls": {
+                "20171030": "https://sohu.com-v-sohu.com/20171031/EG4NVUIA/index.m3u8",
+                "20171106": "https://sohu.com-v-sohu.com/20171110/hkZiPd0q/index.m3u8",
+                "20171120": "https://youku.com-iqiyi.net/20171121/2EoyyK5i/index.m3u8",
+                "20171127": "https://youku.com-iqiyi.net/20171130/3iQumzS4/index.m3u8",
+                "20171204": "https://youku.com-iqiyi.net/20171205/CKwztRTW/index.m3u8",
+                "20171211": "https://youku.com-iqiyi.net/20171214/x1VpyqHf/index.m3u8",
+                "20171225": "https://youku.com-iqiyi.net/20171227/5QOEqgP6/index.m3u8",
+                "20180108": "https://youku.com-youku.com/20180115/wJIsvQmx/index.m3u8",
+                "180118期": "https://youku.com-youku.com/20180119/4YY1kdqY/index.m3u8"
+            }
+        }
+    ]
+}

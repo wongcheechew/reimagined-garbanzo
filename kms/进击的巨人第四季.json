@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "name": "进击的巨人第四季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-12/1607310263.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20201207/19320_45b107e0/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20201214/19613_b8d0008d/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20201221/19872_f5627737/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20201228/20111_3ec80d85/index.m3u8",
+                "第05集": "https://iqiyi.cdn9-okzy.com/20210111/20717_1e37dd96/index.m3u8",
+                "第06集": "https://iqiyi.cdn9-okzy.com/20210118/21037_9c552a67/index.m3u8"
+            }
+        }
+    ]
+}

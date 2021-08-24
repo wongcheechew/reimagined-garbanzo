@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "权力的游戏第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-05/150459971311.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180614/12015_6911df7b/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180614/12016_6deeb5de/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180614/12068_06a9ace7/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180614/12017_144ed9da/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180614/12018_3c3f2e1e/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180614/12019_ba92ab4a/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180614/12020_34a6a5a9/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180614/12021_c86f67bd/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180614/12022_5d02692e/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180614/12023_b134a721/index.m3u8"
+            }
+        }
+    ]
+}

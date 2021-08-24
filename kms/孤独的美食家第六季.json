@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "孤独的美食家第六季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-05/150459540013.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180801/4709_df490268/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180801/4710_22e96d70/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180801/4711_2b1d7a5e/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180801/4712_83dfc0d5/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180801/4713_1c40d5ed/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180801/4714_f3ec4213/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180801/4715_643e315a/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180801/4716_3e81209b/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180801/4717_5ea76088/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180801/4718_70cc447d/index.m3u8",
+                "第11集": "https://sina.com-h-sina.com/20180801/4719_c9488532/index.m3u8",
+                "第12集": "https://sina.com-h-sina.com/20180801/4720_47da05dd/index.m3u8"
+            }
+        }
+    ]
+}

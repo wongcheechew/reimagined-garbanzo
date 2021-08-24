@@ -1,0 +1,21 @@
+{
+    "RECORDS": [
+        {
+            "name": "帝陵之西汉帝陵",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-04/1586718551.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn10-okzy.com/20200413/13685_a8410d82/index.m3u8",
+                "第02集": "https://youku.cdn10-okzy.com/20200413/13686_d5a3b228/index.m3u8",
+                "第03集": "https://youku.cdn10-okzy.com/20200413/13687_5a89f434/index.m3u8",
+                "第04集": "https://youku.cdn10-okzy.com/20200413/13688_21d8f56f/index.m3u8",
+                "第05集": "https://youku.cdn10-okzy.com/20200413/13689_37ae8a13/index.m3u8",
+                "第06集": "https://youku.cdn10-okzy.com/20200413/13690_14df7837/index.m3u8",
+                "第07集": "https://youku.cdn10-okzy.com/20200413/13691_c9b1fcc5/index.m3u8",
+                "第08集": "https://youku.cdn10-okzy.com/20200413/13692_2ca664c4/index.m3u8",
+                "第09集": "https://youku.cdn10-okzy.com/20200413/13693_aee77526/index.m3u8",
+                "第10集": "https://youku.cdn10-okzy.com/20200413/13694_43fe3fa3/index.m3u8",
+                "第11集": "https://youku.cdn10-okzy.com/20200413/13695_cce0009b/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "RECORDS": [
+        {
+            "name": "来自风平浪静的明天",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/201805191526708119.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180518/3323_7300515e/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180518/3326_093ccee2/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180518/3325_0c3dd121/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180518/3327_1ca47314/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180518/3328_487a99d4/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180518/3330_09614d3e/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180518/3329_9cba8938/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180518/3331_d7980850/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180518/3332_ae2ee0ab/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180518/3333_cfbc5961/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180519/3334_e790cfef/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180519/3335_52e596dc/index.m3u8",
+                "第13集": "https://youku.com-youku.net/20180519/3336_6a6f1256/index.m3u8",
+                "第14集": "https://youku.com-youku.net/20180519/3337_491ff1c0/index.m3u8",
+                "第15集": "https://youku.com-youku.net/20180519/3338_9f34833a/index.m3u8",
+                "第16集": "https://youku.com-youku.net/20180519/3340_88d0c59d/index.m3u8",
+                "第17集": "https://youku.com-youku.net/20180519/3339_5d5bf844/index.m3u8",
+                "第18集": "https://youku.com-youku.net/20180519/3342_a5558f6c/index.m3u8",
+                "第19集": "https://youku.com-youku.net/20180519/3341_697b9c4a/index.m3u8",
+                "第20集": "https://youku.com-youku.net/20180519/3343_5da6d09a/index.m3u8",
+                "第21集": "https://youku.com-youku.net/20180519/3345_3f81f995/index.m3u8",
+                "第22集": "https://youku.com-youku.net/20180519/3344_8e4e3f3a/index.m3u8",
+                "第23集": "https://youku.com-youku.net/20180519/3347_93b69671/index.m3u8",
+                "第24集": "https://youku.com-youku.net/20180519/3346_f73bd8eb/index.m3u8",
+                "第25集": "https://youku.com-youku.net/20180519/3348_1ff0a59f/index.m3u8",
+                "第26集": "https://youku.com-youku.net/20180519/3352_b825b44b/index.m3u8"
+            }
+        }
+    ]
+}

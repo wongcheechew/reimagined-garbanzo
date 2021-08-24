@@ -1,0 +1,30 @@
+{
+    "RECORDS": [
+        {
+            "name": "爱情公寓第一部",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/201805181526635352.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180517/2471_a7a2b1c5/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180517/2466_5c906a48/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180517/2470_47cdaec8/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180517/2467_d2be808f/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180517/2468_76b59459/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180517/2469_8f240f25/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180517/2475_d9c2a4e6/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180517/2472_4d66140d/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180517/2473_6a6a8a98/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180517/2474_496e2baf/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180517/2480_8181b91a/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180517/2476_9e65a741/index.m3u8",
+                "第13集": "https://youku.com-youku.net/20180517/2477_e21692b5/index.m3u8",
+                "第14集": "https://youku.com-youku.net/20180517/2478_009f800c/index.m3u8",
+                "第15集": "https://youku.com-youku.net/20180517/2482_d1a14368/index.m3u8",
+                "第16集": "https://youku.com-youku.net/20180517/2479_560add60/index.m3u8",
+                "第17集": "https://youku.com-youku.net/20180517/2483_e442436a/index.m3u8",
+                "第18集": "https://youku.com-youku.net/20180517/2481_b305162d/index.m3u8",
+                "第19集": "https://youku.com-youku.net/20180517/2485_3111f2b4/index.m3u8",
+                "第20集": "https://youku.com-youku.net/20180517/2487_f1015d69/index.m3u8"
+            }
+        }
+    ]
+}

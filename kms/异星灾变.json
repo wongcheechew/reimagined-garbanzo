@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "异星灾变",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-09/1599155322.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200903/20191_b9537b25/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200903/20189_52cf6422/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200903/20190_2645b784/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200911/20417_4fba7d5c/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200911/20416_2839d349/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200917/20637_47d1d1eb/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200917/20636_64ef1c78/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200924/20866_c10af2f8/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200924/20865_93466bc0/index.m3u8",
+                "第10集": "https://youku.cdn11-okzy.com/20201001/21106_3f350c50/index.m3u8"
+            }
+        }
+    ]
+}

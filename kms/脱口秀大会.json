@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "脱口秀大会",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2017-09-30/201709301506777164.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn29-okzy.com/20200830/4253_93933ea8/index.m3u8",
+                "第02集": "https://youku.cdn29-okzy.com/20200830/4254_86975ada/index.m3u8",
+                "第03集": "https://youku.cdn29-okzy.com/20200830/4255_5259612e/index.m3u8",
+                "第04集": "https://youku.cdn29-okzy.com/20200830/4256_df14cdb7/index.m3u8",
+                "第05集": "https://youku.cdn29-okzy.com/20200830/4257_06781f9e/index.m3u8",
+                "第06集": "https://youku.cdn29-okzy.com/20200830/4258_ccb85de0/index.m3u8",
+                "第07集": "https://youku.cdn29-okzy.com/20200830/4259_487a83b7/index.m3u8",
+                "第08集": "https://youku.cdn29-okzy.com/20200830/4260_362a2426/index.m3u8",
+                "第09集": "https://youku.cdn29-okzy.com/20200830/4261_2e704f43/index.m3u8",
+                "第10集": "https://youku.cdn29-okzy.com/20200830/4262_a89c883d/index.m3u8",
+                "第11集": "https://youku.cdn29-okzy.com/20200830/4263_ca41a821/index.m3u8",
+                "第12集": "https://youku.cdn29-okzy.com/20200830/4264_66a7be7d/index.m3u8"
+            }
+        }
+    ]
+}

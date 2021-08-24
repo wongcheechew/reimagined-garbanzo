@@ -1,0 +1,14 @@
+{
+    "RECORDS": [
+        {
+            "name": "Re：从零开始的异世界生活第二季",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1594221447.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200708/12152_90b51813/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200716/12479_3afcef39/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200723/12894_9c6a4bbb/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20200729/13255_766f6baf/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "RECORDS": [
+        {
+            "name": "奔跑吧兄弟第四季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-05/15588905014.jpg",
+            "urls": {
+                "第01集": "https://youku.com-a-youku.com/20190526/784_22d21466/index.m3u8",
+                "第02集": "https://youku.com-a-youku.com/20190526/785_793d4b28/index.m3u8",
+                "第03集": "https://youku.com-a-youku.com/20190526/786_98392f1a/index.m3u8",
+                "第04集": "https://youku.com-a-youku.com/20190526/787_462eee6e/index.m3u8",
+                "第05集": "https://youku.com-a-youku.com/20190526/788_5ebbf78f/index.m3u8",
+                "第06集": "https://youku.com-a-youku.com/20190526/789_2de0c953/index.m3u8",
+                "第07集": "https://youku.com-a-youku.com/20190526/790_1ef43177/index.m3u8",
+                "第08集": "https://youku.com-a-youku.com/20190526/791_132450ba/index.m3u8",
+                "第09集": "https://youku.com-a-youku.com/20190526/792_cdae5e4a/index.m3u8",
+                "第10集": "https://youku.com-a-youku.com/20190526/793_6d3bd208/index.m3u8",
+                "第11集": "https://youku.com-a-youku.com/20190526/794_8b40ecde/index.m3u8",
+                "第12集": "https://youku.com-a-youku.com/20190526/795_c7d5acda/index.m3u8",
+                "第13集": "https://youku.com-a-youku.com/20190526/797_4b17993a/index.m3u8"
+            }
+        }
+    ]
+}

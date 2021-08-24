@@ -1,0 +1,14 @@
+{
+    "RECORDS": [
+        {
+            "name": "黑道之家",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-11/15429490940.jpg",
+            "urls": {
+                "第01集": "https://bilibili.com-l-163.com/20181122/24009_c8c4a188/index.m3u8",
+                "第02集": "https://bilibili.com-l-163.com/20181122/24010_63b1ddb6/index.m3u8",
+                "第03集": "https://bilibili.com-l-163.com/20181122/24011_b8a95008/index.m3u8",
+                "第04集": "https://bilibili.com-l-163.com/20181122/24012_25cb26ae/index.m3u8"
+            }
+        }
+    ]
+}

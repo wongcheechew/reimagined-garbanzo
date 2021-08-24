@@ -1,0 +1,36 @@
+{
+    "RECORDS": [
+        {
+            "name": "进击的巨人第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-04/201804281524904262.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn-163.com/20180427/6670_c6a995cf/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180611/11596_28f4162d/index.m3u8",
+                "第03集": "https://youku.cdn-163.com/20180427/6671_1ccaadb3/index.m3u8",
+                "第04集": "https://youku.cdn-163.com/20180427/6672_a9482a74/index.m3u8",
+                "第05集": "https://youku.cdn-163.com/20180427/6673_fb1dd271/index.m3u8",
+                "第06集": "https://youku.cdn-163.com/20180427/6674_8d5960ec/index.m3u8",
+                "第07集": "https://youku.cdn-163.com/20180427/6675_489ef687/index.m3u8",
+                "第08集": "https://youku.cdn-163.com/20180427/6676_99310cfa/index.m3u8",
+                "第09集": "https://youku.cdn-163.com/20180427/6677_6d8de255/index.m3u8",
+                "第10集": "https://youku.cdn-163.com/20180427/6678_6aeb5ef1/index.m3u8",
+                "第11集": "https://youku.cdn-163.com/20180427/6679_b75ad4be/index.m3u8",
+                "第12集": "https://youku.cdn-163.com/20180427/6680_76233906/index.m3u8",
+                "第13集上": "https://youku.cdn-163.com/20180427/6681_a80a73e5/index.m3u8",
+                "第13集下": "https://youku.cdn-163.com/20180427/6682_6c7b4ea8/index.m3u8",
+                "第14集": "https://youku.cdn-163.com/20180427/6683_a6d2ad7d/index.m3u8",
+                "第15集": "https://youku.cdn-163.com/20180427/6684_381defca/index.m3u8",
+                "第16集": "https://youku.cdn-163.com/20180427/6685_a8a7906a/index.m3u8",
+                "第17集": "https://youku.cdn-163.com/20180427/6686_d74b32df/index.m3u8",
+                "第18集": "https://youku.cdn-163.com/20180427/6687_a8f5dbc9/index.m3u8",
+                "第19集": "https://youku.cdn-163.com/20180427/6688_7e5eed0e/index.m3u8",
+                "第20集": "https://youku.cdn-163.com/20180427/6689_1c1496f6/index.m3u8",
+                "第21集": "https://youku.cdn-163.com/20180427/6690_5ead8786/index.m3u8",
+                "第22集": "https://youku.cdn-163.com/20180427/6691_7fb42c2b/index.m3u8",
+                "第23集": "https://youku.cdn-163.com/20180427/6692_6c45d2d3/index.m3u8",
+                "第24集": "https://youku.cdn-163.com/20180427/6693_39192896/index.m3u8",
+                "第25集": "https://youku.cdn-163.com/20180427/6694_964c861d/index.m3u8"
+            }
+        }
+    ]
+}

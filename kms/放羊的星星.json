@@ -1,0 +1,30 @@
+{
+    "RECORDS": [
+        {
+            "name": "放羊的星星",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-07/15325610259.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180725/177_a690b207/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180725/178_59d8c8c5/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180725/179_49954e29/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180725/180_896989cd/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180725/181_4da0e420/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180725/182_be0a2b92/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180725/183_50dc4110/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180725/184_d5a75a79/index.m3u8",
+                "第09集": "https://sina.com-h-sina.com/20180725/185_b313ac81/index.m3u8",
+                "第10集": "https://sina.com-h-sina.com/20180725/186_24e1dcda/index.m3u8",
+                "第11集": "https://sina.com-h-sina.com/20180725/187_1c415172/index.m3u8",
+                "第12集": "https://sina.com-h-sina.com/20180725/188_218333dc/index.m3u8",
+                "第13集": "https://sina.com-h-sina.com/20180725/189_799cbc90/index.m3u8",
+                "第14集": "https://sina.com-h-sina.com/20180725/190_1eddbd8d/index.m3u8",
+                "第15集": "https://sina.com-h-sina.com/20180725/191_96f0bd19/index.m3u8",
+                "第16集": "https://sina.com-h-sina.com/20180725/192_6deefbc6/index.m3u8",
+                "第17集": "https://sina.com-h-sina.com/20180725/193_2fa0d316/index.m3u8",
+                "第18集": "https://sina.com-h-sina.com/20180725/194_e072fb52/index.m3u8",
+                "第19集": "https://sina.com-h-sina.com/20180725/195_6a60afa9/index.m3u8",
+                "第20集": "https://sina.com-h-sina.com/20180725/196_7dd521e6/index.m3u8"
+            }
+        }
+    ]
+}

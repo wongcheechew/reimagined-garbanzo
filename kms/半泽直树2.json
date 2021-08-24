@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "半泽直树2",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1595234367.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn3-okzy.com/20200720/11100_1a8c4da4/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200727/19010_3136e6a6/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200803/19211_d88682d4/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200810/19455_bddeba8d/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200817/19731_ebe6ac3c/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200824/19910_498f0edb/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200831/20108_fb6a31ce/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200914/20520_88db4804/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200921/20761_496dcc6a/index.m3u8",
+                "第10集": "https://youku.cdn11-okzy.com/20200928/21020_4b889ddb/index.m3u8"
+            }
+        }
+    ]
+}

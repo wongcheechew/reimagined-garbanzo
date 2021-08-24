@@ -1,0 +1,32 @@
+{
+    "RECORDS": [
+        {
+            "name": "永无止境第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-05/155886404513.jpg",
+            "urls": {
+                "第01集": "https://youku.com-t-youku.com/20190525/24491_dde2b350/index.m3u8",
+                "第02集": "https://youku.com-t-youku.com/20190525/24492_347f993a/index.m3u8",
+                "第03集": "https://youku.com-t-youku.com/20190525/24493_142f0cb7/index.m3u8",
+                "第04集": "https://youku.com-t-youku.com/20190525/24494_5937347e/index.m3u8",
+                "第05集": "https://youku.com-t-youku.com/20190525/24495_e2fd12ea/index.m3u8",
+                "第06集": "https://youku.com-t-youku.com/20190525/24496_7f494dbd/index.m3u8",
+                "第07集": "https://youku.com-t-youku.com/20190525/24497_b498e570/index.m3u8",
+                "第08集": "https://youku.com-t-youku.com/20190525/24498_4d3c2603/index.m3u8",
+                "第09集": "https://youku.com-t-youku.com/20190525/24499_930eff55/index.m3u8",
+                "第10集": "https://youku.com-t-youku.com/20190525/24500_29ce8935/index.m3u8",
+                "第11集": "https://youku.com-t-youku.com/20190525/24501_209fa423/index.m3u8",
+                "第12集": "https://youku.com-t-youku.com/20190525/24502_b9b647d6/index.m3u8",
+                "第13集": "https://youku.com-t-youku.com/20190525/24503_12e627df/index.m3u8",
+                "第14集": "https://youku.com-t-youku.com/20190525/24504_b64ba00e/index.m3u8",
+                "第15集": "https://youku.com-t-youku.com/20190525/24505_61acd023/index.m3u8",
+                "第16集": "https://youku.com-t-youku.com/20190525/24506_bebf9c6f/index.m3u8",
+                "第17集": "https://youku.com-t-youku.com/20190525/24507_f8f752ff/index.m3u8",
+                "第18集": "https://youku.com-t-youku.com/20190525/24508_7ffd5a8e/index.m3u8",
+                "第19集": "https://youku.com-t-youku.com/20190525/24509_efe6619f/index.m3u8",
+                "第20集": "https://youku.com-t-youku.com/20190525/24510_e2a06b83/index.m3u8",
+                "第21集": "https://youku.com-t-youku.com/20190525/24511_8884b38f/index.m3u8",
+                "第22集": "https://youku.com-t-youku.com/20190525/24512_18c15f20/index.m3u8"
+            }
+        }
+    ]
+}

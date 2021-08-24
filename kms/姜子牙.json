@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "姜子牙",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-10/1601747725.jpg",
+            "url": "https://youku.cdn7-okzy.com/20201004/20968_67a726a5/index.m3u8",
+            "urls": {
+                "TC中字": "https://youku.cdn7-okzy.com/20201004/20968_67a726a5/index.m3u8"
+            }
+        }
+    ]
+}

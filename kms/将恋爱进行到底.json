@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "将恋爱进行到底",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-01/1579075257.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200115/11492_bbc64a70/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200123/11777_3347f0e1/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200129/12098_3c7ed11a/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200205/12348_0f1d4342/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200212/12658_3fee3ca6/index.m3u8",
+                "第06集": "https://youku.cdn11-okzy.com/20200219/12941_91525c24/index.m3u8",
+                "第07集": "https://youku.cdn11-okzy.com/20200226/13203_b5be300e/index.m3u8",
+                "第08集": "https://youku.cdn11-okzy.com/20200313/13914_79d2684b/index.m3u8",
+                "第09集": "https://youku.cdn11-okzy.com/20200311/13810_111a6e9e/index.m3u8",
+                "第10集": "https://youku.cdn11-okzy.com/20200318/14144_9c027e95/index.m3u8"
+            }
+        }
+    ]
+}

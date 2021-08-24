@@ -1,0 +1,14 @@
+{
+    "RECORDS": [
+        {
+            "name": "天官赐福2020",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-10/1604119636.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20201031/17472_a84afb9d/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20201031/17473_42e7ceed/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20201107/17792_1b80ff98/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20201114/18153_b4d20845/index.m3u8"
+            }
+        }
+    ]
+}

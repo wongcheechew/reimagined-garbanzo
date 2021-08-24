@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "name": "屌丝女士第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-08/15344007492.jpg",
+            "urls": {
+                "第01集": "https://sina.com-h-sina.com/20180815/10032_f8345c70/index.m3u8",
+                "第02集": "https://sina.com-h-sina.com/20180815/10033_1400fc23/index.m3u8",
+                "第03集": "https://sina.com-h-sina.com/20180815/10034_704c2ee8/index.m3u8",
+                "第04集": "https://sina.com-h-sina.com/20180815/10035_a1bc5d2d/index.m3u8",
+                "第05集": "https://sina.com-h-sina.com/20180815/10036_8d25380d/index.m3u8",
+                "第06集": "https://sina.com-h-sina.com/20180815/10037_e6e70530/index.m3u8",
+                "第07集": "https://sina.com-h-sina.com/20180815/10038_11cbe2a5/index.m3u8",
+                "第08集": "https://sina.com-h-sina.com/20180815/10039_80cec85f/index.m3u8"
+            }
+        }
+    ]
+}

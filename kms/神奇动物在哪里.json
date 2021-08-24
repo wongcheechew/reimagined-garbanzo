@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "神奇动物在哪里",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-01/201801261516969280.jpg",
+            "urls": {
+                "HD英语高清": "https://youku.cdn-2-okzy.com/20180126/6IpyMvd9/index.m3u8",
+                "HD国语高清": "https://youku.cdn-2-okzy.com/20180226/v8u9sFJo/index.m3u8"
+            }
+        }
+    ]
+}

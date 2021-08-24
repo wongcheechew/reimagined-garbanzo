@@ -1,0 +1,12 @@
+{
+    "RECORDS": [
+        {
+            "name": "中国好声音之为你转身",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1598671989.jpg",
+            "url": "https://iqiyi.cdn27-okzy.com/20200828/7520_241200da/index.m3u8",
+            "urls": {
+                "HD中字": "https://iqiyi.cdn27-okzy.com/20200828/7520_241200da/index.m3u8"
+            }
+        }
+    ]
+}

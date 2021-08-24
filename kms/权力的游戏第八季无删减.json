@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "name": "权力的游戏第八季无删减",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-04/201904151555295151.jpg",
+            "urls": {
+                "第01集": "https://bilibili.com-h-bilibili.com/20190415/8430_4408fc10/index.m3u8",
+                "第02集": "https://youku.com-qq.net/20190421/58_cf52f3fe/index.m3u8",
+                "第03集": "https://youku.com-qq.net/20190428/147_a0a5d33c/index.m3u8",
+                "第04集": "https://youku.com-qq.net/20190505/220_0905a4b6/index.m3u8",
+                "第05集": "https://youku.com-qq.net/20190512/313_b396a420/index.m3u8",
+                "第06集": "https://youku.com-qq.net/20190519/403_aa4fa771/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "一拳超人",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/15261930339.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180512/1314_128286f4/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180512/1287_065ba0cc/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180512/1288_577e67c7/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180512/1289_a3a8e0d6/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180512/1290_2987a969/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180512/1291_50c49bf2/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180512/1292_67869ebc/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180512/1293_f38c0c1d/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180512/1294_a7b38413/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180512/1295_94f9db19/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180512/1296_66e2a27d/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180512/1297_d7d23894/index.m3u8"
+            }
+        }
+    ]
+}

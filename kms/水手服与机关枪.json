@@ -1,0 +1,17 @@
+{
+    "RECORDS": [
+        {
+            "name": "水手服与机关枪",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2019-03/15528927378.jpg",
+            "urls": {
+                "第01集": "https://56.com-t-56.com/20190317/9532_fdff742b/index.m3u8",
+                "第02集": "https://56.com-t-56.com/20190317/9533_3de60dc0/index.m3u8",
+                "第03集": "https://56.com-t-56.com/20190317/9534_d67149d5/index.m3u8",
+                "第04集": "https://56.com-t-56.com/20190317/9535_79fa894f/index.m3u8",
+                "第05集": "https://56.com-t-56.com/20190317/9536_4b64c232/index.m3u8",
+                "第06集": "https://56.com-t-56.com/20190317/9537_d9d1aba9/index.m3u8",
+                "第07集": "https://56.com-t-56.com/20190317/9538_424fa5f2/index.m3u8"
+            }
+        }
+    ]
+}

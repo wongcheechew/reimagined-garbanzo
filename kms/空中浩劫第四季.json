@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "空中浩劫第四季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-05/15268043490.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn2-youku.com/20180520/11427_3aadbcd9/index.m3u8",
+                "第02集": "https://youku.cdn2-youku.com/20180520/11429_0e685678/index.m3u8",
+                "第03集": "https://youku.cdn2-youku.com/20180520/11430_16cb32ce/index.m3u8",
+                "第04集": "https://youku.cdn2-youku.com/20180520/11431_7e255348/index.m3u8",
+                "第05集": "https://youku.cdn2-youku.com/20180520/11432_e5820fc2/index.m3u8",
+                "第06集": "暂缺",
+                "第07集": "https://youku.cdn2-youku.com/20180520/11434_a030f862/index.m3u8",
+                "第08集": "https://youku.cdn2-youku.com/20180520/11435_e825a44b/index.m3u8",
+                "第09集": "https://youku.cdn2-youku.com/20180520/11436_0df0d9fa/index.m3u8",
+                "第10集": "https://youku.cdn2-youku.com/20180520/11437_b5b4fc53/index.m3u8"
+            }
+        }
+    ]
+}

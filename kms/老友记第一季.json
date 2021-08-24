@@ -1,0 +1,34 @@
+{
+    "RECORDS": [
+        {
+            "name": "老友记第一季",
+            "logo": "https://images.cnblogsc.com/pic/upload/vod/2018-06/201806211529546396.jpg",
+            "urls": {
+                "第01集": "https://youku.com-youku.net/20180620/13384_935d1bd1/index.m3u8",
+                "第02集": "https://youku.com-youku.net/20180620/13385_4a957c14/index.m3u8",
+                "第03集": "https://youku.com-youku.net/20180620/13386_59391754/index.m3u8",
+                "第04集": "https://youku.com-youku.net/20180620/13387_7d8aa8b1/index.m3u8",
+                "第05集": "https://youku.com-youku.net/20180620/13388_8f8141d0/index.m3u8",
+                "第06集": "https://youku.com-youku.net/20180620/13389_fe303448/index.m3u8",
+                "第07集": "https://youku.com-youku.net/20180620/13390_d99a4b98/index.m3u8",
+                "第08集": "https://youku.com-youku.net/20180620/13391_342294a9/index.m3u8",
+                "第09集": "https://youku.com-youku.net/20180620/13392_7e43762b/index.m3u8",
+                "第10集": "https://youku.com-youku.net/20180620/13393_ef5e910b/index.m3u8",
+                "第11集": "https://youku.com-youku.net/20180620/13394_918d1d46/index.m3u8",
+                "第12集": "https://youku.com-youku.net/20180620/13395_55614a57/index.m3u8",
+                "第13集": "https://youku.com-youku.net/20180620/13397_923e6f21/index.m3u8",
+                "第14集": "https://youku.com-youku.net/20180620/13396_b02fb3aa/index.m3u8",
+                "第15集": "https://youku.com-youku.net/20180620/13398_350daa0d/index.m3u8",
+                "第16集": "https://youku.com-youku.net/20180620/13399_e85d1d2d/index.m3u8",
+                "第17集": "https://youku.com-youku.net/20180620/13400_b314ead0/index.m3u8",
+                "第18集": "https://youku.com-youku.net/20180620/13401_e2448d38/index.m3u8",
+                "第19集": "https://youku.com-youku.net/20180620/13402_114d33c8/index.m3u8",
+                "第20集": "https://youku.com-youku.net/20180620/13403_b9f4002c/index.m3u8",
+                "第21集": "https://youku.com-youku.net/20180620/13404_ff17aa26/index.m3u8",
+                "第22集": "https://youku.com-youku.net/20180620/13405_54369b2a/index.m3u8",
+                "第23集": "https://youku.com-youku.net/20180620/13406_fd8938d2/index.m3u8",
+                "第24集": "https://youku.com-youku.net/20180620/13407_141843fe/index.m3u8"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "RECORDS": [
+        {
+            "name": "脱口秀大会第三季",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1595494964.jpg",
+            "urls": {
+                "20200722上": "https://youku.cdn3-okzy.com/20200723/11294_d7cae119/index.m3u8",
+                "20200722下": "https://youku.cdn3-okzy.com/20200723/11295_d82384cb/index.m3u8",
+                "20200729上": "https://youku.cdn3-okzy.com/20200729/11508_558a9785/index.m3u8",
+                "20200729下": "https://youku.cdn3-okzy.com/20200729/11509_56ba01e8/index.m3u8",
+                "20200805": "https://youku.cdn3-okzy.com/20200805/11753_9e9b25e2/index.m3u8",
+                "20200812": "https://youku.cdn3-okzy.com/20200812/11954_c2f3de2b/index.m3u8",
+                "20200819": "https://youku.cdn3-okzy.com/20200819/12177_e7b91270/index.m3u8",
+                "20200826": "https://youku.cdn3-okzy.com/20200826/12381_80be87f1/index.m3u8",
+                "20200902": "https://youku.cdn3-okzy.com/20200902/12600_c7160f52/index.m3u8",
+                "20200909": "https://youku.cdn3-okzy.com/20200909/12802_ced65de0/index.m3u8",
+                "20200916": "https://youku.cdn3-okzy.com/20200916/13000_d7a23979/index.m3u8",
+                "20200923": "https://youku.cdn3-okzy.com/20200923/13207_bcc9602c/index.m3u8"
+            }
+        }
+    ]
+}

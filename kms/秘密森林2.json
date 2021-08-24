@@ -1,0 +1,15 @@
+{
+    "RECORDS": [
+        {
+            "name": "秘密森林2",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1597528113.jpg",
+            "urls": {
+                "第01集": "https://youku.cdn11-okzy.com/20200815/19682_3633b86d/index.m3u8",
+                "第02集": "https://youku.cdn11-okzy.com/20200816/19711_5bb55b48/index.m3u8",
+                "第03集": "https://youku.cdn11-okzy.com/20200822/19875_2c19d9aa/index.m3u8",
+                "第04集": "https://youku.cdn11-okzy.com/20200824/19906_4927d529/index.m3u8",
+                "第05集": "https://youku.cdn11-okzy.com/20200829/20056_af00a2ba/index.m3u8"
+            }
+        }
+    ]
+}
